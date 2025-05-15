@@ -1,0 +1,2309 @@
+id,name,class
+AT_001,Flame Lance,MAGE
+AT_002,Effigy,MAGE
+AT_003,Fallen Hero,MAGE
+AT_004,Arcane Blast,MAGE
+AT_005,Polymorph: Boar,MAGE
+AT_006,Dalaran Aspirant,MAGE
+AT_007,Spellslinger,MAGE
+AT_008,Coldarra Drake,MAGE
+AT_009,Rhonin,MAGE
+AT_010,Ram Wrangler,HUNTER
+AT_011,Holy Champion,PRIEST
+AT_012,Spawn of Shadows,PRIEST
+AT_013,Power Word: Glory,PRIEST
+AT_014,Shadowfiend,PRIEST
+AT_015,Convert,PRIEST
+AT_016,Confuse,PRIEST
+AT_017,Twilight Guardian,NEUTRAL
+AT_018,Confessor Paletress,PRIEST
+AT_019,Dreadsteed,WARLOCK
+AT_020,Fearsome Doomguard,WARLOCK
+AT_021,Tiny Knight of Evil,WARLOCK
+AT_022,Fist of Jaraxxus,WARLOCK
+AT_023,Void Crusher,WARLOCK
+AT_024,Demonfuse,WARLOCK
+AT_025,Dark Bargain,WARLOCK
+AT_026,Wrathguard,WARLOCK
+AT_027,Wilfred Fizzlebang,WARLOCK
+AT_028,Shado-Pan Rider,ROGUE
+AT_029,Buccaneer,ROGUE
+AT_030,Undercity Valiant,ROGUE
+AT_031,Cutpurse,ROGUE
+AT_032,Shady Dealer,ROGUE
+AT_033,Burgle,ROGUE
+AT_034,Poisoned Blade,ROGUE
+AT_035,Beneath the Grounds,ROGUE
+AT_036,Anub'arak,ROGUE
+AT_037,Living Roots,DRUID
+AT_038,Darnassus Aspirant,DRUID
+AT_039,Savage Combatant,DRUID
+AT_040,Wildwalker,DRUID
+AT_041,Knight of the Wild,DRUID
+AT_042,Druid of the Saber,DRUID
+AT_043,Astral Communion,DRUID
+AT_044,Mulch,DRUID
+AT_045,Aviana,DRUID
+AT_046,Tuskarr Totemic,SHAMAN
+AT_047,Draenei Totemcarver,SHAMAN
+AT_048,Healing Wave,SHAMAN
+AT_049,Thunder Bluff Valiant,SHAMAN
+AT_050,Charged Hammer,SHAMAN
+AT_051,Elemental Destruction,SHAMAN
+AT_052,Totem Golem,SHAMAN
+AT_053,Ancestral Knowledge,SHAMAN
+AT_054,The Mistcaller,SHAMAN
+AT_055,Flash Heal,PRIEST
+AT_056,Powershot,HUNTER
+AT_057,Stablemaster,HUNTER
+AT_058,King's Elekk,HUNTER
+AT_059,Brave Archer,HUNTER
+AT_060,Bear Trap,HUNTER
+AT_061,Lock and Load,HUNTER
+AT_062,Ball of Spiders,HUNTER
+AT_063,Acidmaw,HUNTER
+AT_063t,Dreadscale,HUNTER
+AT_064,Bash,WARRIOR
+AT_065,King's Defender,WARRIOR
+AT_066,Orgrimmar Aspirant,WARRIOR
+AT_067,Magnataur Alpha,WARRIOR
+AT_068,Bolster,WARRIOR
+AT_069,Sparring Partner,WARRIOR
+AT_070,Skycap'n Kragg,NEUTRAL
+AT_071,Alexstrasza's Champion,WARRIOR
+AT_072,Varian Wrynn,WARRIOR
+AT_073,Competitive Spirit,PALADIN
+AT_074,Seal of Champions,PALADIN
+AT_075,Warhorse Trainer,PALADIN
+AT_076,Murloc Knight,PALADIN
+AT_077,Argent Lance,PALADIN
+AT_078,Enter the Coliseum,PALADIN
+AT_079,Mysterious Challenger,PALADIN
+AT_080,Garrison Commander,NEUTRAL
+AT_081,Eadric the Pure,PALADIN
+AT_082,Lowly Squire,NEUTRAL
+AT_083,Dragonhawk Rider,NEUTRAL
+AT_084,Lance Carrier,NEUTRAL
+AT_085,Maiden of the Lake,NEUTRAL
+AT_086,Saboteur,NEUTRAL
+AT_087,Argent Horserider,NEUTRAL
+AT_088,Mogor's Champion,NEUTRAL
+AT_089,Boneguard Lieutenant,NEUTRAL
+AT_090,Mukla's Champion,NEUTRAL
+AT_091,Tournament Medic,NEUTRAL
+AT_092,Ice Rager,NEUTRAL
+AT_093,Frigid Snobold,NEUTRAL
+AT_094,Flame Juggler,NEUTRAL
+AT_095,Silent Knight,NEUTRAL
+AT_096,Clockwork Knight,NEUTRAL
+AT_097,Tournament Attendee,NEUTRAL
+AT_098,Sideshow Spelleater,NEUTRAL
+AT_099,Kodorider,NEUTRAL
+AT_100,Silver Hand Regent,NEUTRAL
+AT_101,Pit Fighter,NEUTRAL
+AT_102,Captured Jormungar,NEUTRAL
+AT_103,North Sea Kraken,NEUTRAL
+AT_104,Tuskarr Jouster,PALADIN
+AT_105,Injured Kvaldir,NEUTRAL
+AT_106,Light's Champion,NEUTRAL
+AT_108,Armored Warhorse,NEUTRAL
+AT_109,Argent Watchman,NEUTRAL
+AT_110,Coliseum Manager,NEUTRAL
+AT_111,Refreshment Vendor,NEUTRAL
+AT_112,Master Jouster,NEUTRAL
+AT_113,Recruiter,NEUTRAL
+AT_114,Evil Heckler,NEUTRAL
+AT_115,Fencing Coach,NEUTRAL
+AT_116,Wyrmrest Agent,PRIEST
+AT_117,Master of Ceremonies,NEUTRAL
+AT_118,Grand Crusader,NEUTRAL
+AT_119,Kvaldir Raider,NEUTRAL
+AT_120,Frost Giant,NEUTRAL
+AT_121,Crowd Favorite,NEUTRAL
+AT_122,Gormok the Impaler,NEUTRAL
+AT_123,Chillmaw,NEUTRAL
+AT_124,Bolf Ramshield,NEUTRAL
+AT_125,Icehowl,NEUTRAL
+AT_127,Nexus-Champion Saraad,NEUTRAL
+AT_128,The Skeleton Knight,NEUTRAL
+AT_129,Fjola Lightbane,NEUTRAL
+AT_130,Sea Reaver,WARRIOR
+AT_131,Eydis Darkbane,NEUTRAL
+AT_132,Justicar Trueheart,NEUTRAL
+AT_133,Gadgetzan Jouster,NEUTRAL
+BOT_020,Skaterbot,NEUTRAL
+BOT_021,Bronze Gatekeeper,NEUTRAL
+BOT_031,Goblin Bomb,NEUTRAL
+BOT_033,Bomb Toss,HUNTER
+BOT_034,Boommaster Flark,HUNTER
+BOT_035,Venomizer,HUNTER
+BOT_038,Fireworks Tech,HUNTER
+BOT_039,Necromechanic,HUNTER
+BOT_042,Weapons Project,WARRIOR
+BOT_050,Rusty Recycler,NEUTRAL
+BOT_054,Biology Project,DRUID
+BOT_059,Eternium Rover,WARRIOR
+BOT_066,Mechanical Whelp,NEUTRAL
+BOT_067,Rocket Boots,WARRIOR
+BOT_069,The Boomship,WARRIOR
+BOT_079,Faithful Lumi,NEUTRAL
+BOT_083,Toxicologist,NEUTRAL
+BOT_084,Violet Haze,ROGUE
+BOT_087,Academic Espionage,ROGUE
+BOT_093,Elementary Reaction,SHAMAN
+BOT_098,Unpowered Mauler,NEUTRAL
+BOT_099,Eureka!,SHAMAN
+BOT_101,Astral Rift,MAGE
+BOT_102,Spark Drill,NEUTRAL
+BOT_103,Stargazer Luna,MAGE
+BOT_104,Dyn-o-matic,WARRIOR
+BOT_107,Missile Launcher,NEUTRAL
+BOT_216,Omega Medic,PRIEST
+BOT_218,Security Rover,WARRIOR
+BOT_219,Extra Arms,PRIEST
+BOT_222,Spirit Bomb,WARLOCK
+BOT_224,Doubling Imp,WARLOCK
+BOT_226,Nethersoul Buster,WARLOCK
+BOT_234,Shrink Ray,PALADIN
+BOT_236,Crystalsmith Kangor,PALADIN
+BOT_237,Beryllium Nullifier,WARRIOR
+BOT_242,Myra's Unstable Element,ROGUE
+BOT_243,Myra Rotspring,ROGUE
+BOT_245,The Storm Bringer,SHAMAN
+BOT_246,Beakered Lightning,SHAMAN
+BOT_251,Spider Bomb,HUNTER
+BOT_254,Unexpected Results,MAGE
+BOT_256,Astromancer,MAGE
+BOT_257,Luna's Pocket Galaxy,MAGE
+BOT_258,"Zerek, Master Cloner",PRIEST
+BOT_263,Soul Infusion,WARLOCK
+BOT_267,Piloted Reaper,NEUTRAL
+BOT_270,Giggling Inventor,NEUTRAL
+BOT_280,Holomancer,NEUTRAL
+BOT_283,Pogo-Hopper,ROGUE
+BOT_286,Necrium Blade,ROGUE
+BOT_288,Lab Recruiter,ROGUE
+BOT_291,Storm Chaser,SHAMAN
+BOT_296,Omega Defender,NEUTRAL
+BOT_299,Omega Assembly,WARRIOR
+BOT_308,Spring Rocket,NEUTRAL
+BOT_309,Upgradeable Framebot,NEUTRAL
+BOT_312,Replicating Menace,NEUTRAL
+BOT_401,Weaponized Piñata,NEUTRAL
+BOT_402,Secret Plan,HUNTER
+BOT_404,Juicy Psychmelon,DRUID
+BOT_406,Supercollider,WARRIOR
+BOT_407,Thunderhead,SHAMAN
+BOT_411,Electra Stormsurge,SHAMAN
+BOT_413,Brainstormer,NEUTRAL
+BOT_414,Cloakscale Chemist,NEUTRAL
+BOT_419,Dendrologist,DRUID
+BOT_420,Landscaping,DRUID
+BOT_422,Tending Tauren,DRUID
+BOT_423,Dreampetal Florist,DRUID
+BOT_424,Mecha'thun,NEUTRAL
+BOT_429,Flark's Boom-Zooka,HUNTER
+BOT_431,Whirliglider,NEUTRAL
+BOT_433,Dr. Morrigan,WARLOCK
+BOT_434,Flobbidinous Floop,DRUID
+BOT_435,Cloning Device,PRIEST
+BOT_436,Prismatic Lens,PALADIN
+BOT_437,Goblin Prank,HUNTER
+BOT_438,Cybertech Chip,HUNTER
+BOT_443,Void Analyst,WARLOCK
+BOT_444,Floop's Glorious Gloop,DRUID
+BOT_445,Mecharoo,NEUTRAL
+BOT_447,Crystallizer,NEUTRAL
+BOT_448,Damaged Stegotron,NEUTRAL
+BOT_451,Voltaic Burst,SHAMAN
+BOT_453,Shooting Star,MAGE
+BOT_507,Gloop Sprayer,DRUID
+BOT_508,Necrium Vial,ROGUE
+BOT_509,Dead Ringer,PRIEST
+BOT_511,Seaforium Bomber,NEUTRAL
+BOT_517,Topsy Turvy,PRIEST
+BOT_521,Ectomancy,WARLOCK
+BOT_523,Mulchmuncher,DRUID
+BOT_529,Power Word: Replicate,PRIEST
+BOT_531,Celestial Emissary,MAGE
+BOT_532,Explodinator,NEUTRAL
+BOT_533,Menacing Nimbus,SHAMAN
+BOT_534,Bull Dozer,NEUTRAL
+BOT_535,Microtech Controller,NEUTRAL
+BOT_536,Omega Agent,WARLOCK
+BOT_537,Mechano-Egg,PALADIN
+BOT_538,Spark Engine,NEUTRAL
+BOT_539,Arcane Dynamo,NEUTRAL
+BOT_540,E.M.P. Operative,NEUTRAL
+BOT_543,Omega Mind,SHAMAN
+BOT_544,Loose Specimen,NEUTRAL
+BOT_548,Zilliax,NEUTRAL
+BOT_550,Electrowright,NEUTRAL
+BOT_552,Star Aligner,NEUTRAL
+BOT_555,Harbinger Celestia,NEUTRAL
+BOT_558,Test Subject,PRIEST
+BOT_559,Augmented Elekk,NEUTRAL
+BOT_562,Coppertail Imposter,NEUTRAL
+BOT_563,Wargear,NEUTRAL
+BOT_565,Blightnozzle Crawler,ROGUE
+BOT_566,Reckless Experimenter,PRIEST
+BOT_567,Zerek's Cloning Gallery,PRIEST
+BOT_568,The Soularium,WARLOCK
+BOT_573,Subject 9,NEUTRAL
+BOT_576,Crazed Chemist,ROGUE
+BOT_600,Research Project,MAGE
+BOT_601,Meteorologist,MAGE
+BOT_603,Steel Rager,NEUTRAL
+BOT_604,Cosmic Anomaly,MAGE
+BOT_606,Kaboom Bot,NEUTRAL
+BOT_700,SN1P-SN4P,NEUTRAL
+BOT_906,Glow-Tron,PALADIN
+BOT_907,Galvanizer,NEUTRAL
+BOT_908,Autodefense Matrix,PALADIN
+BOT_909,Crystology,PALADIN
+BOT_910,Glowstone Technician,PALADIN
+BOT_911,Annoy-o-Module,PALADIN
+BOT_912,Kangor's Endless Army,PALADIN
+BOT_913,Demonic Project,WARLOCK
+BOT_914,Whizbang the Wonderful,NEUTRAL
+BRM_001,Solemn Vigil,PALADIN
+BRM_002,Flamewaker,MAGE
+BRM_003,Dragon's Breath,MAGE
+BRM_004,Twilight Whelp,PRIEST
+BRM_005,Demonwrath,WARLOCK
+BRM_006,Imp Gang Boss,WARLOCK
+BRM_007,Gang Up,ROGUE
+BRM_008,Dark Iron Skulker,ROGUE
+BRM_009,Volcanic Lumberer,DRUID
+BRM_010,Druid of the Flame,DRUID
+BRM_011,Lava Shock,SHAMAN
+BRM_012,Fireguard Destroyer,SHAMAN
+BRM_013,Quick Shot,HUNTER
+BRM_014,Core Rager,HUNTER
+BRM_015,Revenge,WARRIOR
+BRM_016,Axe Flinger,WARRIOR
+BRM_017,Resurrect,PRIEST
+BRM_018,Dragon Consort,PALADIN
+BRM_019,Grim Patron,NEUTRAL
+BRM_020,Dragonkin Sorcerer,NEUTRAL
+BRM_022,Dragon Egg,NEUTRAL
+BRM_024,Drakonid Crusher,NEUTRAL
+BRM_025,Volcanic Drake,NEUTRAL
+BRM_026,Hungry Dragon,NEUTRAL
+BRM_027,Majordomo Executus,NEUTRAL
+BRM_028,Emperor Thaurissan,NEUTRAL
+BRM_029,Rend Blackhand,NEUTRAL
+BRM_030,Nefarian,NEUTRAL
+BRM_031,Chromaggus,NEUTRAL
+BRM_033,Blackwing Technician,NEUTRAL
+BRM_034,Blackwing Corruptor,NEUTRAL
+BT_255,Kael'thas Sunstrider,NEUTRAL
+CFM_020,Raza the Chained,PRIEST
+CFM_021,Freezing Potion,MAGE
+CFM_025,Wind-up Burglebot,NEUTRAL
+CFM_026,Hidden Cache,HUNTER
+CFM_039,Street Trickster,NEUTRAL
+CFM_060,Red Mana Wyrm,NEUTRAL
+CFM_061,Jinyu Waterspeaker,SHAMAN
+CFM_062,Grimestreet Protector,PALADIN
+CFM_063,Kooky Chemist,NEUTRAL
+CFM_064,Blubber Baron,NEUTRAL
+CFM_065,Volcanic Potion,MAGE
+CFM_066,Kabal Lackey,MAGE
+CFM_067,Hozen Healer,NEUTRAL
+CFM_094,Felfire Potion,WARLOCK
+CFM_095,Weasel Tunneler,NEUTRAL
+CFM_120,Mistress of Mixtures,NEUTRAL
+CFM_300,Public Defender,WARRIOR
+CFM_305,Smuggler's Run,PALADIN
+CFM_308,Kun the Forgotten King,DRUID
+CFM_310,Call in the Finishers,SHAMAN
+CFM_312,Jade Chieftain,SHAMAN
+CFM_313,Finders Keepers,SHAMAN
+CFM_315,Alleycat,HUNTER
+CFM_316,Rat Pack,HUNTER
+CFM_321,Grimestreet Informant,HUNTER
+CFM_324,White Eyes,SHAMAN
+CFM_325,Small-Time Buccaneer,NEUTRAL
+CFM_328,Fight Promoter,NEUTRAL
+CFM_333,Knuckles,HUNTER
+CFM_334,Smuggler's Crate,HUNTER
+CFM_335,Dispatch Kodo,HUNTER
+CFM_336,Shaky Zipgunner,HUNTER
+CFM_337,Piranha Launcher,HUNTER
+CFM_338,Trogg Beastrager,HUNTER
+CFM_341,Sergeant Sally,NEUTRAL
+CFM_342,Luckydo Buccaneer,ROGUE
+CFM_343,Jade Behemoth,DRUID
+CFM_344,"Finja, the Flying Star",NEUTRAL
+CFM_602,Jade Idol,DRUID
+CFM_603,Potion of Madness,PRIEST
+CFM_604,Greater Healing Potion,PRIEST
+CFM_605,Drakonid Operative,PRIEST
+CFM_606,Mana Geode,PRIEST
+CFM_608,Blastcrystal Potion,WARLOCK
+CFM_609,Fel Orc Soulfiend,NEUTRAL
+CFM_610,Crystalweaver,WARLOCK
+CFM_611,Bloodfury Potion,WARLOCK
+CFM_614,Mark of the Lotus,DRUID
+CFM_616,Pilfered Power,DRUID
+CFM_617,Celestial Dreamer,DRUID
+CFM_619,Kabal Chemist,MAGE
+CFM_620,Potion of Polymorph,MAGE
+CFM_621,Kazakus,MAGE
+CFM_623,Greater Arcane Missiles,MAGE
+CFM_626,Kabal Talonpriest,PRIEST
+CFM_630,Counterfeit Coin,ROGUE
+CFM_631,Brass Knuckles,WARRIOR
+CFM_634,Lotus Assassin,ROGUE
+CFM_636,Shadow Rager,ROGUE
+CFM_637,Patches the Pirate,NEUTRAL
+CFM_639,Grimestreet Enforcer,PALADIN
+CFM_643,Hobart Grapplehammer,WARRIOR
+CFM_646,Backstreet Leper,NEUTRAL
+CFM_647,Blowgill Sniper,NEUTRAL
+CFM_648,Big-Time Racketeer,NEUTRAL
+CFM_649,Kabal Courier,MAGE
+CFM_650,Grimscale Chum,PALADIN
+CFM_651,Naga Corsair,NEUTRAL
+CFM_652,Second-Rate Bruiser,NEUTRAL
+CFM_653,Hired Gun,NEUTRAL
+CFM_654,Friendly Bartender,NEUTRAL
+CFM_655,Toxic Sewer Ooze,NEUTRAL
+CFM_656,Streetwise Investigator,NEUTRAL
+CFM_657,Kabal Songstealer,PRIEST
+CFM_658,Backroom Bouncer,NEUTRAL
+CFM_659,Gadgetzan Socialite,NEUTRAL
+CFM_660,Manic Soulcaster,MAGE
+CFM_661,Pint-Size Potion,PRIEST
+CFM_662,Dragonfire Potion,PRIEST
+CFM_663,Kabal Trafficker,WARLOCK
+CFM_665,Worgen Greaser,NEUTRAL
+CFM_666,Grook Fu Master,NEUTRAL
+CFM_667,Bomb Squad,NEUTRAL
+CFM_668,Doppelgangster,NEUTRAL
+CFM_669,Burgly Bully,NEUTRAL
+CFM_670,Mayor Noggenfogger,NEUTRAL
+CFM_671,Cryomancer,MAGE
+CFM_672,Madam Goya,NEUTRAL
+CFM_685,Don Han'Cho,HUNTER
+CFM_687,Inkmaster Solia,MAGE
+CFM_688,Spiked Hogrider,NEUTRAL
+CFM_690,Jade Shuriken,ROGUE
+CFM_691,Jade Swarmer,ROGUE
+CFM_693,Gadgetzan Ferryman,ROGUE
+CFM_694,Shadow Sensei,ROGUE
+CFM_696,Devolve,SHAMAN
+CFM_697,Lotus Illusionist,SHAMAN
+CFM_699,Seadevil Stinger,WARLOCK
+CFM_707,Jade Lightning,SHAMAN
+CFM_713,Jade Blossom,DRUID
+CFM_715,Jade Spirit,DRUID
+CFM_716,Sleep with the Fishes,WARRIOR
+CFM_717,Jade Claws,SHAMAN
+CFM_750,Krul the Unshackled,WARLOCK
+CFM_751,Abyssal Enforcer,WARLOCK
+CFM_752,Stolen Goods,WARRIOR
+CFM_753,Grimestreet Outfitter,PALADIN
+CFM_754,Grimy Gadgeteer,WARRIOR
+CFM_755,Grimestreet Pawnbroker,WARRIOR
+CFM_756,Alley Armorsmith,WARRIOR
+CFM_759,Meanstreet Marshal,PALADIN
+CFM_760,Kabal Crystal Runner,MAGE
+CFM_781,"Shaku, the Collector",ROGUE
+CFM_790,Dirty Rat,NEUTRAL
+CFM_800,Getaway Kodo,PALADIN
+CFM_806,Wrathion,NEUTRAL
+CFM_807,Auctionmaster Beardo,NEUTRAL
+CFM_808,"Genzo, the Shark",NEUTRAL
+CFM_809,Tanaris Hogchopper,NEUTRAL
+CFM_810,Leatherclad Hogleader,NEUTRAL
+CFM_811,Lunar Visions,DRUID
+CFM_815,Wickerflame Burnbristle,PALADIN
+CFM_816,Virmen Sensei,DRUID
+CFM_851,Daring Reporter,NEUTRAL
+CFM_852,Lotus Agents,DRUID
+CFM_853,Grimestreet Smuggler,HUNTER
+CFM_854,Ancient of Blossoms,NEUTRAL
+CFM_855,Defias Cleaner,NEUTRAL
+CFM_900,Unlicensed Apothecary,WARLOCK
+CFM_902,Aya Blackpaw,DRUID
+CFM_905,Small-Time Recruits,PALADIN
+CFM_940,I Know a Guy,WARRIOR
+CS1_042,Goldshire Footman,NEUTRAL
+CS1_069,Fen Creeper,NEUTRAL
+CS1_112,Holy Nova,PRIEST
+CS1_113,Mind Control,PRIEST
+CS1_129,Inner Fire,PRIEST
+CS1_130,Holy Smite,PRIEST
+CS2_003,Mind Vision,PRIEST
+CS2_004,Power Word: Shield,PRIEST
+CS2_005,Claw,DRUID
+CS2_007,Healing Touch,DRUID
+CS2_008,Moonfire,DRUID
+CS2_009,Mark of the Wild,DRUID
+CS2_011,Savage Roar,DRUID
+CS2_012,Swipe,DRUID
+CS2_013,Wild Growth,DRUID
+CS2_022,Polymorph,MAGE
+CS2_023,Arcane Intellect,MAGE
+CS2_024,Frostbolt,MAGE
+CS2_025,Arcane Explosion,MAGE
+CS2_026,Frost Nova,MAGE
+CS2_027,Mirror Image,MAGE
+CS2_028,Blizzard,MAGE
+CS2_029,Fireball,MAGE
+CS2_031,Ice Lance,MAGE
+CS2_032,Flamestrike,MAGE
+CS2_033,Water Elemental,MAGE
+CS2_037,Frost Shock,SHAMAN
+CS2_038,Ancestral Spirit,SHAMAN
+CS2_039,Windfury,SHAMAN
+CS2_041,Ancestral Healing,SHAMAN
+CS2_042,Fire Elemental,SHAMAN
+CS2_045,Rockbiter Weapon,SHAMAN
+CS2_046,Bloodlust,SHAMAN
+CS2_053,Far Sight,SHAMAN
+CS2_057,Shadow Bolt,WARLOCK
+CS2_059,Blood Imp,WARLOCK
+CS2_061,Drain Life,WARLOCK
+CS2_062,Hellfire,WARLOCK
+CS2_063,Corruption,WARLOCK
+CS2_064,Dread Infernal,WARLOCK
+CS2_065,Voidwalker,WARLOCK
+CS2_072,Backstab,ROGUE
+CS2_073,Cold Blood,ROGUE
+CS2_074,Deadly Poison,ROGUE
+CS2_075,Sinister Strike,ROGUE
+CS2_076,Assassinate,ROGUE
+CS2_077,Sprint,ROGUE
+CS2_080,Assassin's Blade,ROGUE
+CS2_084,Hunter's Mark,HUNTER
+CS2_087,Blessing of Might,PALADIN
+CS2_088,Guardian of Kings,PALADIN
+CS2_089,Holy Light,PALADIN
+CS2_091,Light's Justice,PALADIN
+CS2_092,Blessing of Kings,PALADIN
+CS2_093,Consecration,PALADIN
+CS2_094,Hammer of Wrath,PALADIN
+CS2_097,Truesilver Champion,PALADIN
+CS2_103,Charge,WARRIOR
+CS2_104,Rampage,WARRIOR
+CS2_105,Heroic Strike,WARRIOR
+CS2_106,Fiery War Axe,WARRIOR
+CS2_108,Execute,WARRIOR
+CS2_112,Arcanite Reaper,WARRIOR
+CS2_114,Cleave,WARRIOR
+CS2_117,Earthen Ring Farseer,NEUTRAL
+CS2_118,Magma Rager,NEUTRAL
+CS2_119,Oasis Snapjaw,NEUTRAL
+CS2_120,River Crocolisk,NEUTRAL
+CS2_121,Frostwolf Grunt,NEUTRAL
+CS2_122,Raid Leader,NEUTRAL
+CS2_124,Wolfrider,NEUTRAL
+CS2_125,Ironfur Grizzly,NEUTRAL
+CS2_127,Silverback Patriarch,NEUTRAL
+CS2_131,Stormwind Knight,NEUTRAL
+CS2_141,Ironforge Rifleman,NEUTRAL
+CS2_142,Kobold Geomancer,NEUTRAL
+CS2_146,Southsea Deckhand,NEUTRAL
+CS2_147,Gnomish Inventor,NEUTRAL
+CS2_150,Stormpike Commando,NEUTRAL
+CS2_151,Silver Hand Knight,NEUTRAL
+CS2_155,Archmage,NEUTRAL
+CS2_161,Ravenholdt Assassin,NEUTRAL
+CS2_162,Lord of the Arena,NEUTRAL
+CS2_168,Murloc Raider,NEUTRAL
+CS2_169,Young Dragonhawk,NEUTRAL
+CS2_171,Stonetusk Boar,NEUTRAL
+CS2_172,Bloodfen Raptor,NEUTRAL
+CS2_173,Bluegill Warrior,NEUTRAL
+CS2_179,Sen'jin Shieldmasta,NEUTRAL
+CS2_181,Injured Blademaster,NEUTRAL
+CS2_182,Chillwind Yeti,NEUTRAL
+CS2_186,War Golem,NEUTRAL
+CS2_187,Booty Bay Bodyguard,NEUTRAL
+CS2_188,Abusive Sergeant,NEUTRAL
+CS2_189,Elven Archer,NEUTRAL
+CS2_196,Razorfen Hunter,NEUTRAL
+CS2_197,Ogre Magi,NEUTRAL
+CS2_200,Boulderfist Ogre,NEUTRAL
+CS2_201,Core Hound,NEUTRAL
+CS2_203,Ironbeak Owl,NEUTRAL
+CS2_213,Reckless Rocketeer,NEUTRAL
+CS2_221,Spiteful Smith,NEUTRAL
+CS2_222,Stormwind Champion,NEUTRAL
+CS2_226,Frostwolf Warlord,NEUTRAL
+CS2_227,Venture Co. Mercenary,NEUTRAL
+CS2_231,Wisp,NEUTRAL
+CS2_232,Ironbark Protector,DRUID
+CS2_233,Blade Flurry,ROGUE
+CS2_234,Shadow Word: Pain,PRIEST
+CS2_235,Northshire Cleric,PRIEST
+CS2_236,Divine Spirit,PRIEST
+CS2_237,Starving Buzzard,HUNTER
+DAL_007,Rafaam's Scheme,WARLOCK
+DAL_008,Dr. Boom's Scheme,WARRIOR
+DAL_009,Hagatha's Scheme,SHAMAN
+DAL_010,Togwaggle's Scheme,ROGUE
+DAL_011,Lazul's Scheme,PRIEST
+DAL_030,Shadowy Figure,PRIEST
+DAL_039,Convincing Infiltrator,PRIEST
+DAL_040,Hench-Clan Shadequill,PRIEST
+DAL_047,Walking Fountain,SHAMAN
+DAL_049,Underbelly Angler,SHAMAN
+DAL_052,Muckmorpher,SHAMAN
+DAL_058,Hecklebot,NEUTRAL
+DAL_059,Dimensional Ripper,WARRIOR
+DAL_060,Clockwork Goblin,WARRIOR
+DAL_062,Sweeping Strikes,WARRIOR
+DAL_063,Wrenchcalibur,WARRIOR
+DAL_064,Blastmaster Boom,WARRIOR
+DAL_065,Unsleeping Soul,PRIEST
+DAL_070,The Boom Reaver,WARRIOR
+DAL_071,Mutate,SHAMAN
+DAL_077,Toxfin,NEUTRAL
+DAL_078,Traveling Healer,NEUTRAL
+DAL_081,Spellward Jeweler,NEUTRAL
+DAL_085,Dalaran Crusader,NEUTRAL
+DAL_086,Sunreaver Spy,NEUTRAL
+DAL_087,Hench-Clan Hag,NEUTRAL
+DAL_088,Safeguard,NEUTRAL
+DAL_089,Spellbook Binder,NEUTRAL
+DAL_090,Hench-Clan Sneak,NEUTRAL
+DAL_092,Arcane Servant,NEUTRAL
+DAL_095,Violet Spellsword,NEUTRAL
+DAL_096,Violet Warden,NEUTRAL
+DAL_141,Desperate Measures,PALADIN
+DAL_146,Bronze Herald,PALADIN
+DAL_147,Dragon Speaker,PALADIN
+DAL_163,Messenger Raven,MAGE
+DAL_173,Darkest Hour,WARLOCK
+DAL_177,Conjurer's Calling,MAGE
+DAL_182,Magic Dart Frog,MAGE
+DAL_185,Aranasi Broodmother,WARLOCK
+DAL_256,The Forest's Aid,DRUID
+DAL_350,Crystal Power,DRUID
+DAL_351,Blessing of the Ancients,DRUID
+DAL_352,Crystalsong Portal,DRUID
+DAL_354,Acornbearer,DRUID
+DAL_355,Lifeweaver,DRUID
+DAL_357,Lucentbark,DRUID
+DAL_366,Unidentified Contract,ROGUE
+DAL_371,Marked Shot,HUNTER
+DAL_372,Arcane Fletcher,HUNTER
+DAL_373,Rapid Fire,HUNTER
+DAL_376,Oblivitron,HUNTER
+DAL_377,Nine Lives,HUNTER
+DAL_378,Unleash the Beast,HUNTER
+DAL_379,Vereesa Windrunner,HUNTER
+DAL_400,EVIL Cable Rat,NEUTRAL
+DAL_413,EVIL Conscripter,PRIEST
+DAL_415,EVIL Miscreant,ROGUE
+DAL_416,Hench-Clan Burglar,ROGUE
+DAL_417,Heistbaron Togwaggle,ROGUE
+DAL_422,Arch-Villain Rafaam,WARLOCK
+DAL_431,Swampqueen Hagatha,SHAMAN
+DAL_432,Witch's Brew,SHAMAN
+DAL_433,Sludge Slurper,SHAMAN
+DAL_434,Arcane Watcher,NEUTRAL
+DAL_538,Unseen Saboteur,NEUTRAL
+DAL_539,Sunreaver Warmage,NEUTRAL
+DAL_544,Potion Vendor,NEUTRAL
+DAL_546,Barista Lynchen,NEUTRAL
+DAL_548,Azerite Elemental,NEUTRAL
+DAL_550,Underbelly Ooze,NEUTRAL
+DAL_551,Proud Defender,NEUTRAL
+DAL_553,Big Bad Archmage,NEUTRAL
+DAL_554,Chef Nomi,NEUTRAL
+DAL_558,Archmage Vargoth,NEUTRAL
+DAL_560,Heroic Innkeeper,NEUTRAL
+DAL_561,Jumbo Imp,WARLOCK
+DAL_563,Eager Underling,WARLOCK
+DAL_565,Portal Overfiend,NEUTRAL
+DAL_566,Eccentric Scribe,NEUTRAL
+DAL_568,Lightforged Blessing,PALADIN
+DAL_570,Never Surrender!,PALADIN
+DAL_571,Mysterious Blade,PALADIN
+DAL_573,Commander Rhyssa,PALADIN
+DAL_575,Khadgar,MAGE
+DAL_576,Kirin Tor Tricaster,MAGE
+DAL_577,Ray of Frost,MAGE
+DAL_578,Power of Creation,MAGE
+DAL_581,Nozari,PALADIN
+DAL_582,Portal Keeper,NEUTRAL
+DAL_587,Shimmerfly,HUNTER
+DAL_589,Hunting Party,HUNTER
+DAL_592,Batterhead,NEUTRAL
+DAL_602,Plot Twist,WARLOCK
+DAL_603,Mana Cyclone,MAGE
+DAL_604,Ursatron,HUNTER
+DAL_605,Impferno,WARLOCK
+DAL_606,EVIL Genius,WARLOCK
+DAL_607,Fel Lord Betrug,WARLOCK
+DAL_608,Magic Trick,MAGE
+DAL_609,Kalecgos,MAGE
+DAL_710,Soul of the Murloc,SHAMAN
+DAL_714,Underbelly Fence,ROGUE
+DAL_716,Vendetta,ROGUE
+DAL_719,Tak Nozwhisker,ROGUE
+DAL_720,Waggle Pick,ROGUE
+DAL_721,Catrina Muerte,PRIEST
+DAL_723,Forbidden Words,PRIEST
+DAL_724,Mass Resurrection,PRIEST
+DAL_726,Scargil,SHAMAN
+DAL_727,Call to Adventure,PALADIN
+DAL_728,Daring Escape,ROGUE
+DAL_729,Madame Lazul,PRIEST
+DAL_731,Duel!,PALADIN
+DAL_732,Keeper Stalladris,DRUID
+DAL_733,Dreamway Guardians,DRUID
+DAL_735,Dalaran Librarian,NEUTRAL
+DAL_736,Archivist Elysiana,NEUTRAL
+DAL_742,Whirlwind Tempest,NEUTRAL
+DAL_743,Hench-Clan Hogsteed,NEUTRAL
+DAL_744,Faceless Rager,NEUTRAL
+DAL_747,Flight Master,NEUTRAL
+DAL_748,Mana Reservoir,NEUTRAL
+DAL_749,Recurring Villain,NEUTRAL
+DAL_751,Mad Summoner,NEUTRAL
+DAL_752,Jepetto Joybuzz,NEUTRAL
+DAL_759,Vicious Scraphound,WARRIOR
+DAL_760,Burly Shovelfist,NEUTRAL
+DAL_769,Improve Morale,WARRIOR
+DAL_770,Omega Devastator,WARRIOR
+DAL_771,Soldier of Fortune,NEUTRAL
+DAL_773,Magic Carpet,NEUTRAL
+DAL_774,Exotic Mountseller,NEUTRAL
+DAL_775,Tunnel Blaster,NEUTRAL
+DAL_799,Crystal Stag,DRUID
+DAL_800,"Zayle, Shadow Cloak",NEUTRAL
+DRG_006,Corrosive Breath,HUNTER
+DRG_007,Stormhammer,HUNTER
+DRG_008,Righteous Cause,PALADIN
+DRG_010,Diving Gryphon,HUNTER
+DRG_019,Scion of Ruin,WARRIOR
+DRG_020,EVIL Quartermaster,WARRIOR
+DRG_021,Ritual Chopper,WARRIOR
+DRG_022,Ramming Speed,WARRIOR
+DRG_023,Skybarge,WARRIOR
+DRG_024,Sky Raider,WARRIOR
+DRG_025,Ancharrr,WARRIOR
+DRG_026,"Deathwing, Mad Aspect",WARRIOR
+DRG_027,Umbral Skulker,ROGUE
+DRG_028,Dragon's Hoard,ROGUE
+DRG_030,Praise Galakrond!,ROGUE
+DRG_031,Necrium Apothecary,ROGUE
+DRG_033,Candle Breath,ROGUE
+DRG_034,Stowaway,ROGUE
+DRG_035,Bloodsail Flybooter,ROGUE
+DRG_036,Waxadred,ROGUE
+DRG_037,Flik Skyshiv,ROGUE
+DRG_049,Tasty Flyfish,NEUTRAL
+DRG_050,Devoted Maniac,NEUTRAL
+DRG_051,Strength in Numbers,DRUID
+DRG_054,Big Ol' Whelp,NEUTRAL
+DRG_055,Hoard Pillager,NEUTRAL
+DRG_056,Parachute Brigand,NEUTRAL
+DRG_057,Hot Air Balloon,NEUTRAL
+DRG_058,Wing Commander,NEUTRAL
+DRG_059,Goboglide Tech,NEUTRAL
+DRG_060,Fire Hawk,NEUTRAL
+DRG_061,Gyrocopter,NEUTRAL
+DRG_062,Wyrmrest Purifier,NEUTRAL
+DRG_063,Dragonmaw Poacher,NEUTRAL
+DRG_064,Zul'Drak Ritualist,NEUTRAL
+DRG_065,Hippogryph,NEUTRAL
+DRG_066,Evasive Chimaera,NEUTRAL
+DRG_067,Troll Batrider,NEUTRAL
+DRG_068,Living Dragonbreath,NEUTRAL
+DRG_069,Platebreaker,NEUTRAL
+DRG_070,Dragon Breeder,NEUTRAL
+DRG_071,Bad Luck Albatross,NEUTRAL
+DRG_072,Skyfin,NEUTRAL
+DRG_073,Evasive Feywing,NEUTRAL
+DRG_074,Camouflaged Dirigible,NEUTRAL
+DRG_075,Cobalt Spellkin,NEUTRAL
+DRG_076,Faceless Corruptor,NEUTRAL
+DRG_077,Utgarde Grapplesniper,NEUTRAL
+DRG_078,Depth Charge,NEUTRAL
+DRG_079,Evasive Wyrm,NEUTRAL
+DRG_081,Scalerider,NEUTRAL
+DRG_082,Kobold Stickyfinger,NEUTRAL
+DRG_084,Tentacled Menace,NEUTRAL
+DRG_086,Chromatic Egg,NEUTRAL
+DRG_088,Dread Raven,NEUTRAL
+DRG_089,Dragonqueen Alexstrasza,NEUTRAL
+DRG_090,Murozond the Infinite,PRIEST
+DRG_091,Shu'ma,NEUTRAL
+DRG_092,Transmogrifier,NEUTRAL
+DRG_095,Veranus,HUNTER
+DRG_096,Bandersmosh,SHAMAN
+DRG_099,Kronx Dragonhoof,NEUTRAL
+DRG_102,Azure Explorer,MAGE
+DRG_104,Chenvaala,MAGE
+DRG_106,Arcane Breath,MAGE
+DRG_107,Violet Spellwing,MAGE
+DRG_109,Mana Giant,MAGE
+DRG_201,Crazed Netherwing,WARLOCK
+DRG_202,Dragonblight Cultist,WARLOCK
+DRG_203,Veiled Worshipper,WARLOCK
+DRG_204,Dark Skies,WARLOCK
+DRG_205,Nether Breath,WARLOCK
+DRG_206,Rain of Fire,WARLOCK
+DRG_207,Abyssal Summoner,WARLOCK
+DRG_208,Valdris Felgorge,WARLOCK
+DRG_209,Zzeraku the Warped,WARLOCK
+DRG_211,Squallhunter,SHAMAN
+DRG_213,Twin Tyrant,NEUTRAL
+DRG_215,Storm's Wrath,SHAMAN
+DRG_216,Surging Tempest,SHAMAN
+DRG_217,Dragon's Pack,SHAMAN
+DRG_218,Corrupt Elementalist,SHAMAN
+DRG_219,Lightning Breath,SHAMAN
+DRG_223,Cumulo-Maximus,SHAMAN
+DRG_224,Nithogg,SHAMAN
+DRG_225,Sky Claw,PALADIN
+DRG_226,Amber Watcher,PALADIN
+DRG_229,Bronze Explorer,PALADIN
+DRG_231,Lightforged Crusader,PALADIN
+DRG_232,Lightforged Zealot,PALADIN
+DRG_233,Sand Breath,PALADIN
+DRG_235,Dragonrider Talritha,PALADIN
+DRG_239,Blazing Battlemage,NEUTRAL
+DRG_242,Shield of Galakrond,NEUTRAL
+DRG_246,Time Rip,PRIEST
+DRG_247,Seal Fate,ROGUE
+DRG_248,Invocation of Frost,SHAMAN
+DRG_249,Awaken!,WARRIOR
+DRG_250,Fiendish Rites,WARLOCK
+DRG_251,Clear the Way,HUNTER
+DRG_252,Phase Stalker,HUNTER
+DRG_253,Dwarven Sharpshooter,HUNTER
+DRG_254,Primordial Explorer,HUNTER
+DRG_255,Toxic Reinforcements,HUNTER
+DRG_256,Dragonbane,HUNTER
+DRG_257,Frizz Kindleroost,NEUTRAL
+DRG_258,Sanctuary,PALADIN
+DRG_270,"Malygos, Aspect of Magic",MAGE
+DRG_300,Fate Weaver,PRIEST
+DRG_301,Whispers of EVIL,PRIEST
+DRG_302,Grave Rune,PRIEST
+DRG_303,Disciple of Galakrond,PRIEST
+DRG_304,Chronobreaker,PRIEST
+DRG_306,Envoy of Lazul,PRIEST
+DRG_307,Breath of the Infinite,PRIEST
+DRG_308,Mindflayer Kaahrj,PRIEST
+DRG_309,Nozdormu the Timeless,PALADIN
+DRG_310,Evasive Drakonid,NEUTRAL
+DRG_311,Treenforcements,DRUID
+DRG_312,Shrubadier,DRUID
+DRG_313,Emerald Explorer,DRUID
+DRG_314,Aeroponics,DRUID
+DRG_315,Embiggen,DRUID
+DRG_317,Secure the Deck,DRUID
+DRG_318,Breath of Dreams,DRUID
+DRG_319,Goru the Mightree,DRUID
+DRG_320,"Ysera, Unleashed",DRUID
+DRG_321,Rolling Fireball,MAGE
+DRG_322,Dragoncaster,MAGE
+DRG_323,Learn Draconic,MAGE
+DRG_324,Elemental Allies,MAGE
+DRG_401,Grizzled Wizard,NEUTRAL
+DRG_402,Sathrovarr,NEUTRAL
+DRG_403,Blowtorch Saboteur,NEUTRAL
+DRG_500,Molten Breath,WARRIOR
+DS1_055,Darkscale Healer,NEUTRAL
+DS1_070,Houndmaster,HUNTER
+DS1_175,Timber Wolf,HUNTER
+DS1_178,Tundra Rhino,HUNTER
+DS1_183,Multi-Shot,HUNTER
+DS1_184,Tracking,HUNTER
+DS1_185,Arcane Shot,HUNTER
+DS1_188,Gladiator's Longbow,HUNTER
+DS1_233,Mind Blast,PRIEST
+EX1_001,Lightwarden,NEUTRAL
+EX1_002,The Black Knight,NEUTRAL
+EX1_004,Young Priestess,NEUTRAL
+EX1_005,Big Game Hunter,NEUTRAL
+EX1_006,Alarm-o-Bot,NEUTRAL
+EX1_007,Acolyte of Pain,NEUTRAL
+EX1_008,Argent Squire,NEUTRAL
+EX1_009,Angry Chicken,NEUTRAL
+EX1_010,Worgen Infiltrator,NEUTRAL
+EX1_011,Voodoo Doctor,NEUTRAL
+EX1_012,Bloodmage Thalnos,NEUTRAL
+EX1_014,King Mukla,NEUTRAL
+EX1_015,Novice Engineer,NEUTRAL
+EX1_016,Sylvanas Windrunner,NEUTRAL
+EX1_017,Jungle Panther,NEUTRAL
+EX1_019,Shattered Sun Cleric,NEUTRAL
+EX1_020,Scarlet Crusader,NEUTRAL
+EX1_021,Thrallmar Farseer,NEUTRAL
+EX1_023,Silvermoon Guardian,NEUTRAL
+EX1_025,Dragonling Mechanic,NEUTRAL
+EX1_028,Stranglethorn Tiger,NEUTRAL
+EX1_029,Leper Gnome,NEUTRAL
+EX1_032,Sunwalker,NEUTRAL
+EX1_033,Windfury Harpy,NEUTRAL
+EX1_043,Twilight Drake,NEUTRAL
+EX1_044,Questing Adventurer,NEUTRAL
+EX1_045,Ancient Watcher,NEUTRAL
+EX1_046,Dark Iron Dwarf,NEUTRAL
+EX1_048,Spellbreaker,NEUTRAL
+EX1_049,Youthful Brewmaster,NEUTRAL
+EX1_050,Coldlight Oracle,NEUTRAL
+EX1_055,Mana Addict,NEUTRAL
+EX1_057,Ancient Brewmaster,NEUTRAL
+EX1_058,Sunfury Protector,NEUTRAL
+EX1_059,Crazed Alchemist,NEUTRAL
+EX1_062,Old Murk-Eye,NEUTRAL
+EX1_066,Acidic Swamp Ooze,NEUTRAL
+EX1_067,Argent Commander,NEUTRAL
+EX1_076,Pint-Sized Summoner,NEUTRAL
+EX1_080,Secretkeeper,NEUTRAL
+EX1_082,Mad Bomber,NEUTRAL
+EX1_083,Tinkmaster Overspark,NEUTRAL
+EX1_084,Warsong Commander,WARRIOR
+EX1_085,Mind Control Tech,NEUTRAL
+EX1_089,Arcane Golem,NEUTRAL
+EX1_091,Cabal Shadow Priest,PRIEST
+EX1_093,Defender of Argus,NEUTRAL
+EX1_095,Gadgetzan Auctioneer,NEUTRAL
+EX1_096,Loot Hoarder,NEUTRAL
+EX1_097,Abomination,NEUTRAL
+EX1_100,Lorewalker Cho,NEUTRAL
+EX1_102,Demolisher,NEUTRAL
+EX1_103,Coldlight Seer,NEUTRAL
+EX1_105,Mountain Giant,NEUTRAL
+EX1_110,Cairne Bloodhoof,NEUTRAL
+EX1_112,Gelbin Mekkatorque,NEUTRAL
+EX1_116,Leeroy Jenkins,NEUTRAL
+EX1_124,Eviscerate,ROGUE
+EX1_126,Betrayal,ROGUE
+EX1_128,Conceal,ROGUE
+EX1_129,Fan of Knives,ROGUE
+EX1_130,Noble Sacrifice,PALADIN
+EX1_131,Defias Ringleader,ROGUE
+EX1_132,Eye for an Eye,PALADIN
+EX1_133,Perdition's Blade,ROGUE
+EX1_134,SI:7 Agent,ROGUE
+EX1_136,Redemption,PALADIN
+EX1_137,Headcrack,ROGUE
+EX1_144,Shadowstep,ROGUE
+EX1_145,Preparation,ROGUE
+EX1_154,Wrath,DRUID
+EX1_155,Mark of Nature,DRUID
+EX1_158,Soul of the Forest,DRUID
+EX1_160,Power of the Wild,DRUID
+EX1_161,Naturalize,DRUID
+EX1_162,Dire Wolf Alpha,NEUTRAL
+EX1_164,Nourish,DRUID
+EX1_165,Druid of the Claw,DRUID
+EX1_166,Keeper of the Grove,DRUID
+EX1_169,Innervate,DRUID
+EX1_170,Emperor Cobra,NEUTRAL
+EX1_173,Starfire,DRUID
+EX1_178,Ancient of War,DRUID
+EX1_179,Icicle,MAGE
+EX1_180,Tome of Intellect,MAGE
+EX1_181,Call of the Void,WARLOCK
+EX1_182,Pilfer,ROGUE
+EX1_183,Gift of the Wild,DRUID
+EX1_184,Righteousness,PALADIN
+EX1_185,Siegebreaker,WARLOCK
+EX1_186,SI:7 Infiltrator,NEUTRAL
+EX1_187,Arcane Devourer,NEUTRAL
+EX1_188,Barrens Stablehand,NEUTRAL
+EX1_189,Brightwing,NEUTRAL
+EX1_190,High Inquisitor Whitemane,NEUTRAL
+EX1_191,Plaguebringer,ROGUE
+EX1_192,Radiance,PRIEST
+EX1_238,Lightning Bolt,SHAMAN
+EX1_241,Lava Burst,SHAMAN
+EX1_243,Dust Devil,SHAMAN
+EX1_244,Totemic Might,SHAMAN
+EX1_245,Earth Shock,SHAMAN
+EX1_246,Hex,SHAMAN
+EX1_247,Stormforged Axe,SHAMAN
+EX1_248,Feral Spirit,SHAMAN
+EX1_249,Baron Geddon,NEUTRAL
+EX1_250,Earth Elemental,SHAMAN
+EX1_251,Forked Lightning,SHAMAN
+EX1_258,Unbound Elemental,SHAMAN
+EX1_259,Lightning Storm,SHAMAN
+EX1_274,Ethereal Arcanist,MAGE
+EX1_275,Cone of Cold,MAGE
+EX1_277,Arcane Missiles,MAGE
+EX1_278,Shiv,ROGUE
+EX1_279,Pyroblast,MAGE
+EX1_283,Frost Elemental,NEUTRAL
+EX1_284,Azure Drake,NEUTRAL
+EX1_287,Counterspell,MAGE
+EX1_289,Ice Barrier,MAGE
+EX1_294,Mirror Entity,MAGE
+EX1_295,Ice Block,MAGE
+EX1_298,Ragnaros the Firelord,NEUTRAL
+EX1_301,Felguard,WARLOCK
+EX1_302,Mortal Coil,WARLOCK
+EX1_303,Shadowflame,WARLOCK
+EX1_304,Void Terror,WARLOCK
+EX1_306,Felstalker,WARLOCK
+EX1_308,Soulfire,WARLOCK
+EX1_309,Siphon Soul,WARLOCK
+EX1_310,Doomguard,WARLOCK
+EX1_312,Twisting Nether,WARLOCK
+EX1_313,Pit Lord,WARLOCK
+EX1_315,Summoning Portal,WARLOCK
+EX1_316,Power Overwhelming,WARLOCK
+EX1_317,Sense Demons,WARLOCK
+EX1_319,Flame Imp,WARLOCK
+EX1_320,Bane of Doom,WARLOCK
+EX1_323,Lord Jaraxxus,WARLOCK
+EX1_332,Silence,PRIEST
+EX1_334,Shadow Madness,PRIEST
+EX1_335,Lightspawn,PRIEST
+EX1_339,Thoughtsteal,PRIEST
+EX1_341,Lightwell,PRIEST
+EX1_345,Mindgames,PRIEST
+EX1_349,Divine Favor,PALADIN
+EX1_350,Prophet Velen,PRIEST
+EX1_354,Lay on Hands,PALADIN
+EX1_355,Blessed Champion,PALADIN
+EX1_360,Humility,PALADIN
+EX1_362,Argent Protector,PALADIN
+EX1_363,Blessing of Wisdom,PALADIN
+EX1_365,Holy Wrath,PALADIN
+EX1_366,Sword of Justice,PALADIN
+EX1_371,Hand of Protection,PALADIN
+EX1_379,Repentance,PALADIN
+EX1_382,Aldor Peacekeeper,PALADIN
+EX1_383,Tirion Fordring,PALADIN
+EX1_384,Avenging Wrath,PALADIN
+EX1_390,Tauren Warrior,NEUTRAL
+EX1_391,Slam,WARRIOR
+EX1_392,Battle Rage,WARRIOR
+EX1_393,Amani Berserker,NEUTRAL
+EX1_396,Mogu'shan Warden,NEUTRAL
+EX1_398,Arathi Weaponsmith,WARRIOR
+EX1_399,Gurubashi Berserker,NEUTRAL
+EX1_400,Whirlwind,WARRIOR
+EX1_402,Armorsmith,WARRIOR
+EX1_405,Shieldbearer,NEUTRAL
+EX1_407,Brawl,WARRIOR
+EX1_408,Mortal Strike,WARRIOR
+EX1_409,Upgrade!,WARRIOR
+EX1_410,Shield Slam,WARRIOR
+EX1_411,Gorehowl,WARRIOR
+EX1_412,Raging Worgen,NEUTRAL
+EX1_414,Grommash Hellscream,WARRIOR
+EX1_506,Murloc Tidehunter,NEUTRAL
+EX1_507,Murloc Warleader,NEUTRAL
+EX1_508,Grimscale Oracle,NEUTRAL
+EX1_509,Murloc Tidecaller,NEUTRAL
+EX1_522,Patient Assassin,ROGUE
+EX1_531,Scavenging Hyena,HUNTER
+EX1_533,Misdirection,HUNTER
+EX1_534,Savannah Highmane,HUNTER
+EX1_536,Eaglehorn Bow,HUNTER
+EX1_537,Explosive Shot,HUNTER
+EX1_538,Unleash the Hounds,HUNTER
+EX1_539,Kill Command,HUNTER
+EX1_543,King Krush,HUNTER
+EX1_544,Flare,HUNTER
+EX1_549,Bestial Wrath,HUNTER
+EX1_554,Snake Trap,HUNTER
+EX1_556,Harvest Golem,NEUTRAL
+EX1_557,Nat Pagle,NEUTRAL
+EX1_558,Harrison Jones,NEUTRAL
+EX1_559,Archmage Antonidas,MAGE
+EX1_560,Nozdormu,NEUTRAL
+EX1_561,Alexstrasza,NEUTRAL
+EX1_562,Onyxia,NEUTRAL
+EX1_563,Malygos,NEUTRAL
+EX1_564,Faceless Manipulator,NEUTRAL
+EX1_565,Flametongue Totem,SHAMAN
+EX1_567,Doomhammer,SHAMAN
+EX1_570,Bite,DRUID
+EX1_571,Force of Nature,DRUID
+EX1_572,Ysera,NEUTRAL
+EX1_573,Cenarius,DRUID
+EX1_575,Mana Tide Totem,SHAMAN
+EX1_577,The Beast,NEUTRAL
+EX1_578,Savagery,DRUID
+EX1_581,Sap,ROGUE
+EX1_582,Dalaran Mage,NEUTRAL
+EX1_583,Priestess of Elune,NEUTRAL
+EX1_584,Ancient Mage,NEUTRAL
+EX1_586,Sea Giant,NEUTRAL
+EX1_587,Windspeaker,SHAMAN
+EX1_590,Blood Knight,NEUTRAL
+EX1_591,Auchenai Soulpriest,PRIEST
+EX1_593,Nightblade,NEUTRAL
+EX1_594,Vaporize,MAGE
+EX1_595,Cult Master,NEUTRAL
+EX1_596,Demonfire,WARLOCK
+EX1_597,Imp Master,NEUTRAL
+EX1_603,Cruel Taskmaster,WARRIOR
+EX1_604,Frothing Berserker,WARRIOR
+EX1_606,Shield Block,WARRIOR
+EX1_607,Inner Rage,WARRIOR
+EX1_608,Sorcerer's Apprentice,MAGE
+EX1_609,Snipe,HUNTER
+EX1_610,Explosive Trap,HUNTER
+EX1_611,Freezing Trap,HUNTER
+EX1_612,Kirin Tor Mage,MAGE
+EX1_613,Edwin VanCleef,ROGUE
+EX1_614,Illidan Stormrage,NEUTRAL
+EX1_616,Mana Wraith,NEUTRAL
+EX1_617,Deadly Shot,HUNTER
+EX1_619,Equality,PALADIN
+EX1_620,Molten Giant,NEUTRAL
+EX1_621,Circle of Healing,PRIEST
+EX1_622,Shadow Word: Death,PRIEST
+EX1_623,Temple Enforcer,PRIEST
+EX1_624,Holy Fire,PRIEST
+EX1_625,Shadowform,PRIEST
+EX1_626,Mass Dispel,PRIEST
+FP1_001,Zombie Chow,NEUTRAL
+FP1_002,Haunted Creeper,NEUTRAL
+FP1_003,Echoing Ooze,NEUTRAL
+FP1_004,Mad Scientist,NEUTRAL
+FP1_005,Shade of Naxxramas,NEUTRAL
+FP1_007,Nerubian Egg,NEUTRAL
+FP1_008,Spectral Knight,NEUTRAL
+FP1_009,Deathlord,NEUTRAL
+FP1_010,Maexxna,NEUTRAL
+FP1_011,Webspinner,HUNTER
+FP1_012,Sludge Belcher,NEUTRAL
+FP1_013,Kel'Thuzad,NEUTRAL
+FP1_014,Stalagg,NEUTRAL
+FP1_015,Feugen,NEUTRAL
+FP1_016,Wailing Soul,NEUTRAL
+FP1_017,Nerub'ar Weblord,NEUTRAL
+FP1_018,Duplicate,MAGE
+FP1_019,Poison Seeds,DRUID
+FP1_020,Avenge,PALADIN
+FP1_021,Death's Bite,WARRIOR
+FP1_022,Voidcaller,WARLOCK
+FP1_023,Dark Cultist,PRIEST
+FP1_024,Unstable Ghoul,NEUTRAL
+FP1_025,Reincarnate,SHAMAN
+FP1_026,Anub'ar Ambusher,ROGUE
+FP1_027,Stoneskin Gargoyle,NEUTRAL
+FP1_028,Undertaker,NEUTRAL
+FP1_029,Dancing Swords,NEUTRAL
+FP1_030,Loatheb,NEUTRAL
+FP1_031,Baron Rivendare,NEUTRAL
+GIL_113,Rabid Worgen,WARRIOR
+GIL_116,Arcane Keysmith,MAGE
+GIL_117,Worgen Abomination,NEUTRAL
+GIL_118,Deranged Doctor,NEUTRAL
+GIL_119,Cauldron Elemental,NEUTRAL
+GIL_120,Furious Ettin,NEUTRAL
+GIL_121,Darkmire Moonkin,NEUTRAL
+GIL_124,Mossy Horror,NEUTRAL
+GIL_125,Mad Hatter,NEUTRAL
+GIL_128,Emeriss,HUNTER
+GIL_130,Gloom Stag,DRUID
+GIL_134,Holy Water,PRIEST
+GIL_142,Chameleos,PRIEST
+GIL_143,Vicious Scalehide,NEUTRAL
+GIL_145,Sound the Bells!,PALADIN
+GIL_147,Cinderstorm,MAGE
+GIL_152,Blackhowl Gunspire,WARRIOR
+GIL_155,Redband Wasp,WARRIOR
+GIL_156,Quartz Elemental,PRIEST
+GIL_188,Druid of the Scythe,DRUID
+GIL_190,Nightscale Matriarch,PRIEST
+GIL_191,Fiendish Circle,WARLOCK
+GIL_198,Azalina Soulthief,NEUTRAL
+GIL_200,Duskhaven Hunter,HUNTER
+GIL_201,Pumpkin Peasant,NEUTRAL
+GIL_202,Gilnean Royal Guard,NEUTRAL
+GIL_203,Rebuke,PALADIN
+GIL_207,Phantom Militia,NEUTRAL
+GIL_212,Ravencaller,NEUTRAL
+GIL_213,Tanglefur Mystic,NEUTRAL
+GIL_506,Cheap Shot,ROGUE
+GIL_507,Bewitched Guardian,DRUID
+GIL_508,Duskbat,WARLOCK
+GIL_510,Mistwraith,ROGUE
+GIL_513,Lost Spirit,NEUTRAL
+GIL_515,Ratcatcher,WARLOCK
+GIL_518,Wing Blast,HUNTER
+GIL_526,Wyrmguard,NEUTRAL
+GIL_527,Felsoul Inquisitor,NEUTRAL
+GIL_528,Swift Messenger,NEUTRAL
+GIL_529,Spellshifter,NEUTRAL
+GIL_530,Murkspark Eel,SHAMAN
+GIL_531,Witch's Apprentice,SHAMAN
+GIL_534,Hench-Clan Thug,NEUTRAL
+GIL_537,Deadly Arsenal,WARRIOR
+GIL_543,Dark Possession,WARLOCK
+GIL_545,Ghostly Charger,PALADIN
+GIL_547,Darius Crowley,WARRIOR
+GIL_548,Book of Specters,MAGE
+GIL_549,"Toki, Time-Tinker",MAGE
+GIL_553,Wispering Woods,DRUID
+GIL_557,Cursed Castaway,ROGUE
+GIL_558,Swamp Leech,NEUTRAL
+GIL_561,Blackwald Pixie,NEUTRAL
+GIL_562,Vilebrood Skitterer,HUNTER
+GIL_565,Deathweb Spider,WARLOCK
+GIL_571,Witching Hour,DRUID
+GIL_577,Rat Trap,HUNTER
+GIL_578,Countess Ashmore,NEUTRAL
+GIL_580,Town Crier,WARRIOR
+GIL_581,Sandbinder,NEUTRAL
+GIL_583,Totem Cruncher,SHAMAN
+GIL_584,Witchwood Piper,NEUTRAL
+GIL_586,Earthen Might,SHAMAN
+GIL_596,Silver Sword,PALADIN
+GIL_598,Tess Greymane,ROGUE
+GIL_600,Zap!,SHAMAN
+GIL_601,Scaleworm,NEUTRAL
+GIL_607,Toxmonger,HUNTER
+GIL_607t,Hunting Mastiff,HUNTER
+GIL_608,Witchwood Imp,WARLOCK
+GIL_614,Voodoo Doll,NEUTRAL
+GIL_616,Splitting Festeroot,NEUTRAL
+GIL_618,Glinda Crowskin,WARLOCK
+GIL_620,Dollmaster Dorian,NEUTRAL
+GIL_622,Lifedrinker,NEUTRAL
+GIL_623,Witchwood Grizzly,NEUTRAL
+GIL_624,Night Prowler,NEUTRAL
+GIL_634,Bellringer Sentry,PALADIN
+GIL_635,Cathedral Gargoyle,PALADIN
+GIL_637,Ferocious Howl,DRUID
+GIL_640,Curio Collector,MAGE
+GIL_645,Bonfire Elemental,MAGE
+GIL_646,Clockwork Automaton,NEUTRAL
+GIL_648,Chief Inspector,NEUTRAL
+GIL_650,Houndmaster Shaw,HUNTER
+GIL_653,Woodcutter's Axe,WARRIOR
+GIL_654,Warpath,WARRIOR
+GIL_655,Festeroot Hulk,WARRIOR
+GIL_658,Splintergraft,DRUID
+GIL_661,Divine Hymn,PRIEST
+GIL_663,Witchwood Apple,DRUID
+GIL_664,Vex Crow,MAGE
+GIL_665,Curse of Weakness,WARLOCK
+GIL_667,Rotten Applebaum,NEUTRAL
+GIL_672,Spectral Cutlass,ROGUE
+GIL_677,Face Collector,ROGUE
+GIL_678,Ghost Light Angler,SHAMAN
+GIL_680,Walnut Sprite,NEUTRAL
+GIL_681,Nightmare Amalgam,NEUTRAL
+GIL_682,Muck Hunter,NEUTRAL
+GIL_683,Marsh Drake,NEUTRAL
+GIL_685,Paragon of Light,PALADIN
+GIL_687,WANTED!,ROGUE
+GIL_691,Archmage Arugal,MAGE
+GIL_692,Genn Greymane,NEUTRAL
+GIL_693,Blood Witch,WARLOCK
+GIL_694,Prince Liam,PALADIN
+GIL_696,Pick Pocket,ROGUE
+GIL_800,Duskfallen Aviana,DRUID
+GIL_801,Snap Freeze,MAGE
+GIL_803,Militia Commander,WARRIOR
+GIL_805,Coffin Crasher,PRIEST
+GIL_807,Bogshaper,SHAMAN
+GIL_809,Unpowered Steambot,NEUTRAL
+GIL_813,Vivid Nightmare,PRIEST
+GIL_815,Baleful Banker,NEUTRAL
+GIL_816,Swamp Dragon Egg,NEUTRAL
+GIL_817,The Glass Knight,PALADIN
+GIL_819,Witch's Cauldron,NEUTRAL
+GIL_820,Shudderwock,SHAMAN
+GIL_825,Lord Godfrey,WARLOCK
+GIL_826,Baku the Mooneater,NEUTRAL
+GIL_827,Blink Fox,ROGUE
+GIL_828,Dire Frenzy,HUNTER
+GIL_833,Forest Guide,DRUID
+GIL_835,Squashling,PRIEST
+GIL_836,Blazing Invocation,SHAMAN
+GIL_837,Glitter Moth,PRIEST
+GIL_838,Black Cat,MAGE
+GIL_840,Lady in White,PRIEST
+GIL_902,Cutthroat Buccaneer,ROGUE
+GIL_903,Hidden Wisdom,PALADIN
+GIL_905,Carrion Drake,HUNTER
+GVG_001,Flamecannon,MAGE
+GVG_002,Snowchugger,MAGE
+GVG_003,Unstable Portal,MAGE
+GVG_004,Goblin Blastmage,MAGE
+GVG_005,Echo of Medivh,MAGE
+GVG_006,Mechwarper,NEUTRAL
+GVG_007,Flame Leviathan,MAGE
+GVG_008,Lightbomb,PRIEST
+GVG_009,Shadowbomber,PRIEST
+GVG_010,Velen's Chosen,PRIEST
+GVG_011,Shrinkmeister,PRIEST
+GVG_012,Light of the Naaru,PRIEST
+GVG_013,Cogmaster,NEUTRAL
+GVG_014,Vol'jin,PRIEST
+GVG_015,Darkbomb,WARLOCK
+GVG_016,Fel Reaver,NEUTRAL
+GVG_017,Call Pet,HUNTER
+GVG_018,Queen of Pain,WARLOCK
+GVG_019,Demonheart,WARLOCK
+GVG_020,Fel Cannon,WARLOCK
+GVG_021,Mal'Ganis,WARLOCK
+GVG_022,Tinker's Sharpsword Oil,ROGUE
+GVG_023,Goblin Auto-Barber,ROGUE
+GVG_024,Cogmaster's Wrench,ROGUE
+GVG_025,One-eyed Cheat,ROGUE
+GVG_026,Feign Death,HUNTER
+GVG_027,Iron Sensei,ROGUE
+GVG_028,Trade Prince Gallywix,ROGUE
+GVG_029,Ancestor's Call,SHAMAN
+GVG_030,Anodized Robo Cub,DRUID
+GVG_031,Recycle,DRUID
+GVG_032,Grove Tender,DRUID
+GVG_033,Tree of Life,DRUID
+GVG_034,Mech-Bear-Cat,DRUID
+GVG_035,Malorne,DRUID
+GVG_036,Powermace,SHAMAN
+GVG_037,Whirling Zap-o-matic,SHAMAN
+GVG_038,Crackle,SHAMAN
+GVG_039,Vitality Totem,SHAMAN
+GVG_040,Siltfin Spiritwalker,SHAMAN
+GVG_041,Dark Wispers,DRUID
+GVG_042,Neptulon,SHAMAN
+GVG_043,Glaivezooka,HUNTER
+GVG_044,Spider Tank,NEUTRAL
+GVG_045,Imp-losion,WARLOCK
+GVG_046,King of Beasts,HUNTER
+GVG_047,Sabotage,ROGUE
+GVG_048,Metaltooth Leaper,HUNTER
+GVG_049,Gahz'rilla,HUNTER
+GVG_050,Bouncing Blade,WARRIOR
+GVG_051,Warbot,WARRIOR
+GVG_052,Crush,WARRIOR
+GVG_053,Shieldmaiden,WARRIOR
+GVG_054,Ogre Warmaul,WARRIOR
+GVG_055,Screwjank Clunker,WARRIOR
+GVG_056,Iron Juggernaut,WARRIOR
+GVG_057,Seal of Light,PALADIN
+GVG_058,Shielded Minibot,PALADIN
+GVG_059,Coghammer,PALADIN
+GVG_060,Quartermaster,PALADIN
+GVG_061,Muster for Battle,PALADIN
+GVG_062,Cobalt Guardian,PALADIN
+GVG_063,Bolvar Fordragon,PALADIN
+GVG_064,Puddlestomper,NEUTRAL
+GVG_065,Ogre Brute,NEUTRAL
+GVG_066,Dunemaul Shaman,SHAMAN
+GVG_067,Stonesplinter Trogg,NEUTRAL
+GVG_068,Burly Rockjaw Trogg,NEUTRAL
+GVG_069,Antique Healbot,NEUTRAL
+GVG_070,Salty Dog,NEUTRAL
+GVG_071,Lost Tallstrider,NEUTRAL
+GVG_072,Shadowboxer,PRIEST
+GVG_073,Cobra Shot,HUNTER
+GVG_074,Kezan Mystic,NEUTRAL
+GVG_075,Ship's Cannon,NEUTRAL
+GVG_076,Explosive Sheep,NEUTRAL
+GVG_077,Anima Golem,WARLOCK
+GVG_078,Mechanical Yeti,NEUTRAL
+GVG_079,Force-Tank MAX,NEUTRAL
+GVG_080,Druid of the Fang,DRUID
+GVG_081,Gilblin Stalker,NEUTRAL
+GVG_082,Clockwork Gnome,NEUTRAL
+GVG_083,Upgraded Repair Bot,PRIEST
+GVG_084,Flying Machine,NEUTRAL
+GVG_085,Annoy-o-Tron,NEUTRAL
+GVG_086,Siege Engine,WARRIOR
+GVG_087,Steamwheedle Sniper,HUNTER
+GVG_088,Ogre Ninja,ROGUE
+GVG_089,Illuminator,NEUTRAL
+GVG_090,Madder Bomber,NEUTRAL
+GVG_091,Arcane Nullifier X-21,NEUTRAL
+GVG_092,Gnomish Experimenter,NEUTRAL
+GVG_093,Target Dummy,NEUTRAL
+GVG_094,Jeeves,NEUTRAL
+GVG_095,Goblin Sapper,NEUTRAL
+GVG_096,Piloted Shredder,NEUTRAL
+GVG_097,Lil' Exorcist,NEUTRAL
+GVG_098,Gnomeregan Infantry,NEUTRAL
+GVG_099,Bomb Lobber,NEUTRAL
+GVG_100,Floating Watcher,WARLOCK
+GVG_101,Scarlet Purifier,PALADIN
+GVG_102,Tinkertown Technician,NEUTRAL
+GVG_103,Micro Machine,NEUTRAL
+GVG_104,Hobgoblin,NEUTRAL
+GVG_105,Piloted Sky Golem,NEUTRAL
+GVG_106,Junkbot,NEUTRAL
+GVG_107,Enhance-o Mechano,NEUTRAL
+GVG_108,Recombobulator,NEUTRAL
+GVG_109,Mini-Mage,NEUTRAL
+GVG_110,Dr. Boom,NEUTRAL
+GVG_111,Mimiron's Head,NEUTRAL
+GVG_112,Mogor the Ogre,NEUTRAL
+GVG_113,Foe Reaper 4000,NEUTRAL
+GVG_114,Sneed's Old Shredder,NEUTRAL
+GVG_115,Toshley,NEUTRAL
+GVG_116,Mekgineer Thermaplugg,NEUTRAL
+GVG_117,Gazlowe,NEUTRAL
+GVG_118,Troggzor the Earthinator,NEUTRAL
+GVG_119,Blingtron 3000,NEUTRAL
+GVG_120,Hemet Nesingwary,NEUTRAL
+GVG_121,Clockwork Giant,NEUTRAL
+GVG_122,Wee Spellstopper,MAGE
+GVG_123,Soot Spewer,MAGE
+ICC_018,Phantom Freebooter,NEUTRAL
+ICC_019,Skelemancer,NEUTRAL
+ICC_021,Exploding Bloatbat,HUNTER
+ICC_023,Snowflipper Penguin,NEUTRAL
+ICC_025,Rattling Rascal,NEUTRAL
+ICC_026,Grim Necromancer,NEUTRAL
+ICC_027,Bone Drake,NEUTRAL
+ICC_028,Sunborne Val'kyr,NEUTRAL
+ICC_029,Cobalt Scalebane,NEUTRAL
+ICC_031,Night Howler,NEUTRAL
+ICC_032,Venomancer,NEUTRAL
+ICC_034,Arrogant Crusader,PALADIN
+ICC_038,Righteous Protector,PALADIN
+ICC_039,Dark Conviction,PALADIN
+ICC_041,Defile,WARLOCK
+ICC_047,Fatespinner,DRUID
+ICC_049,Toxic Arrow,HUNTER
+ICC_050,Webweave,DRUID
+ICC_051,Druid of the Swarm,DRUID
+ICC_052,Play Dead,HUNTER
+ICC_054,Spreading Plague,DRUID
+ICC_055,Drain Soul,WARLOCK
+ICC_056,Cryostasis,SHAMAN
+ICC_058,Brrrloc,SHAMAN
+ICC_062,Mountainfire Armor,WARRIOR
+ICC_064,Blood Razor,WARRIOR
+ICC_065,Bone Baron,ROGUE
+ICC_067,Vryghoul,NEUTRAL
+ICC_068,Ice Walker,MAGE
+ICC_069,Ghastly Conjurer,MAGE
+ICC_071,Light's Sorrow,PALADIN
+ICC_075,Despicable Dreadlord,WARLOCK
+ICC_078,Avalanche,SHAMAN
+ICC_079,Gnash,DRUID
+ICC_081,Drakkari Defender,SHAMAN
+ICC_082,Frozen Clone,MAGE
+ICC_083,Doomed Apprentice,MAGE
+ICC_085,Ultimate Infestation,DRUID
+ICC_086,Glacial Mysteries,MAGE
+ICC_088,Voodoo Hexxer,SHAMAN
+ICC_089,Ice Fishing,SHAMAN
+ICC_090,Snowfury Giant,SHAMAN
+ICC_091,Dead Man's Hand,WARRIOR
+ICC_092,Acherus Veteran,NEUTRAL
+ICC_093,Tuskarr Fisherman,NEUTRAL
+ICC_094,Fallen Sun Cleric,NEUTRAL
+ICC_096,Furnacefire Colossus,NEUTRAL
+ICC_097,Grave Shambler,NEUTRAL
+ICC_098,Tomb Lurker,NEUTRAL
+ICC_099,Ticking Abomination,NEUTRAL
+ICC_200,Venomstrike Trap,HUNTER
+ICC_201,Roll the Bones,ROGUE
+ICC_204,Professor Putricide,HUNTER
+ICC_206,Treachery,WARLOCK
+ICC_207,Devour Mind,PRIEST
+ICC_210,Shadow Ascendant,PRIEST
+ICC_212,Acolyte of Agony,PRIEST
+ICC_213,Eternal Servitude,PRIEST
+ICC_214,Obsidian Statue,PRIEST
+ICC_215,Archbishop Benedictus,PRIEST
+ICC_218,Howlfiend,WARLOCK
+ICC_220,Deadscale Knight,NEUTRAL
+ICC_221,Leeching Poison,ROGUE
+ICC_233,Doomerang,ROGUE
+ICC_235,Shadow Essence,PRIEST
+ICC_236,Ice Breaker,SHAMAN
+ICC_238,Animated Berserker,WARRIOR
+ICC_240,Runeforge Haunter,ROGUE
+ICC_243,Corpse Widow,HUNTER
+ICC_244,Desperate Stand,PALADIN
+ICC_245,Blackguard,PALADIN
+ICC_252,Coldwraith,MAGE
+ICC_257,Corpse Raiser,NEUTRAL
+ICC_281,Forge of Souls,WARRIOR
+ICC_289,Moorabi,SHAMAN
+ICC_314,The Lich King,NEUTRAL
+ICC_405,Rotface,WARRIOR
+ICC_407,Gnomeferatu,WARLOCK
+ICC_408,Val'kyr Soulclaimer,WARRIOR
+ICC_415,Stitched Tracker,HUNTER
+ICC_419,Bearshark,HUNTER
+ICC_450,Death Revenant,WARRIOR
+ICC_466,Saronite Chain Gang,NEUTRAL
+ICC_467,Deathspeaker,NEUTRAL
+ICC_468,Wretched Tiller,NEUTRAL
+ICC_469,Unwilling Sacrifice,WARLOCK
+ICC_700,Happy Ghoul,NEUTRAL
+ICC_701,Skulking Geist,NEUTRAL
+ICC_702,Shallow Gravedigger,NEUTRAL
+ICC_705,Bonemare,NEUTRAL
+ICC_706,Nerubian Unraveler,NEUTRAL
+ICC_801,Howling Commander,PALADIN
+ICC_802,Spirit Lash,PRIEST
+ICC_807,Strongshell Scavenger,DRUID
+ICC_808,Crypt Lord,DRUID
+ICC_809,Plague Scientist,ROGUE
+ICC_810,Deathaxe Punisher,NEUTRAL
+ICC_811,Lilian Voss,ROGUE
+ICC_812,Meat Wagon,NEUTRAL
+ICC_820,Chillblade Champion,PALADIN
+ICC_823,Simulacrum,MAGE
+ICC_825,Abominable Bowman,HUNTER
+ICC_835,Hadronox,DRUID
+ICC_836,Breath of Sindragosa,MAGE
+ICC_837,Bring It On!,WARRIOR
+ICC_838,Sindragosa,MAGE
+ICC_841,Blood-Queen Lana'thel,WARLOCK
+ICC_849,Embrace Darkness,PRIEST
+ICC_850,Shadowblade,ROGUE
+ICC_851,Prince Keleseth,NEUTRAL
+ICC_852,Prince Taldaram,NEUTRAL
+ICC_853,Prince Valanar,NEUTRAL
+ICC_854,Arfus,NEUTRAL
+ICC_855,Hyldnir Frostrider,NEUTRAL
+ICC_856,Spellweaver,NEUTRAL
+ICC_858,"Bolvar, Fireblood",PALADIN
+ICC_900,Necrotic Geist,NEUTRAL
+ICC_901,Drakkari Enchanter,NEUTRAL
+ICC_902,Mindbreaker,NEUTRAL
+ICC_903,Sanguine Reveler,WARLOCK
+ICC_904,Wicked Skeleton,NEUTRAL
+ICC_905,Bloodworm,NEUTRAL
+ICC_910,Spectral Pillager,ROGUE
+ICC_911,Keening Banshee,NEUTRAL
+ICC_912,Corpsetaker,NEUTRAL
+ICC_913,Tainted Zealot,NEUTRAL
+KAR_004,Cat Trick,HUNTER
+KAR_005,Kindly Grandmother,HUNTER
+KAR_006,Cloaked Huntress,HUNTER
+KAR_009,Babbling Book,MAGE
+KAR_010,Nightbane Templar,PALADIN
+KAR_011,Pompous Thespian,NEUTRAL
+KAR_013,Purify,PRIEST
+KAR_021,Wicked Witchdoctor,SHAMAN
+KAR_025,Kara Kazham!,WARLOCK
+KAR_026,Protect the King!,WARRIOR
+KAR_028,Fool's Bane,WARRIOR
+KAR_029,Runic Egg,NEUTRAL
+KAR_030a,Pantry Spider,NEUTRAL
+KAR_033,Book Wyrm,NEUTRAL
+KAR_035,Priest of the Feast,PRIEST
+KAR_036,Arcane Anomaly,NEUTRAL
+KAR_037,Avian Watcher,NEUTRAL
+KAR_041,Moat Lurker,NEUTRAL
+KAR_044,Moroes,NEUTRAL
+KAR_057,Ivory Knight,PALADIN
+KAR_061,The Curator,NEUTRAL
+KAR_062,Netherspite Historian,NEUTRAL
+KAR_063,Spirit Claws,SHAMAN
+KAR_065,Menagerie Warden,DRUID
+KAR_069,Swashburglar,ROGUE
+KAR_070,Ethereal Peddler,ROGUE
+KAR_073,Maelstrom Portal,SHAMAN
+KAR_075,Moonglade Portal,DRUID
+KAR_076,Firelands Portal,MAGE
+KAR_077,Silvermoon Portal,PALADIN
+KAR_089,Malchezaar's Imp,WARLOCK
+KAR_091,Ironforge Portal,WARRIOR
+KAR_092,Medivh's Valet,MAGE
+KAR_094,Deadly Fork,ROGUE
+KAR_095,Zoobot,NEUTRAL
+KAR_096,Prince Malchezaar,NEUTRAL
+KAR_097,"Medivh, the Guardian",NEUTRAL
+KAR_114,Barnes,NEUTRAL
+KAR_204,Onyx Bishop,PRIEST
+KAR_205,Silverware Golem,WARLOCK
+KAR_300,Enchanted Raven,DRUID
+KAR_702,Menagerie Magician,NEUTRAL
+KAR_710,Arcanosmith,NEUTRAL
+KAR_711,Arcane Giant,NEUTRAL
+KAR_712,Violet Illusionist,NEUTRAL
+LOE_002,Forgotten Torch,MAGE
+LOE_003,Ethereal Conjurer,MAGE
+LOE_006,Museum Curator,PRIEST
+LOE_007,Curse of Rafaam,WARLOCK
+LOE_009,Obsidian Destroyer,WARRIOR
+LOE_010,Pit Snake,ROGUE
+LOE_011,Reno Jackson,NEUTRAL
+LOE_012,Tomb Pillager,ROGUE
+LOE_016,Rumbling Elemental,SHAMAN
+LOE_017,Keeper of Uldaman,PALADIN
+LOE_018,Tunnel Trogg,SHAMAN
+LOE_019,Unearthed Raptor,ROGUE
+LOE_020,Desert Camel,HUNTER
+LOE_021,Dart Trap,HUNTER
+LOE_022,Fierce Monkey,WARRIOR
+LOE_023,Dark Peddler,WARLOCK
+LOE_026,Anyfin Can Happen,PALADIN
+LOE_027,Sacred Trial,PALADIN
+LOE_029,Jeweled Scarab,NEUTRAL
+LOE_038,Naga Sea Witch,NEUTRAL
+LOE_039,Gorillabot A-3,NEUTRAL
+LOE_046,Huge Toad,NEUTRAL
+LOE_047,Tomb Spider,NEUTRAL
+LOE_050,Mounted Raptor,DRUID
+LOE_051,Jungle Moonkin,DRUID
+LOE_053,Djinni of Zephyrs,NEUTRAL
+LOE_061,Anubisath Sentinel,NEUTRAL
+LOE_073,Fossilized Devilsaur,NEUTRAL
+LOE_076,Sir Finley Mrrgglton,NEUTRAL
+LOE_077,Brann Bronzebeard,NEUTRAL
+LOE_079,Elise Starseeker,NEUTRAL
+LOE_086,Summoning Stone,NEUTRAL
+LOE_089,Wobbling Runts,NEUTRAL
+LOE_092,Arch-Thief Rafaam,NEUTRAL
+LOE_104,Entomb,PRIEST
+LOE_105,Explorer's Hat,HUNTER
+LOE_107,Eerie Statue,NEUTRAL
+LOE_110,Ancient Shade,NEUTRAL
+LOE_111,Excavated Evil,PRIEST
+LOE_113,Everyfin is Awesome,SHAMAN
+LOE_115,Raven Idol,DRUID
+LOE_116,Reliquary Seeker,WARLOCK
+LOE_118,Cursed Blade,WARRIOR
+LOE_119,Animated Armor,MAGE
+LOEA10_3,Murloc Tinyfin,NEUTRAL
+LOOT_008,Psychic Scream,PRIEST
+LOOT_013,Vulgar Homunculus,WARLOCK
+LOOT_014,Kobold Librarian,WARLOCK
+LOOT_017,Dark Pact,WARLOCK
+LOOT_018,Hooked Reaver,WARLOCK
+LOOT_026,Fal'dorei Strider,ROGUE
+LOOT_033,Cavern Shinyfinder,ROGUE
+LOOT_041,Kobold Barbarian,WARRIOR
+LOOT_043,Lesser Amethyst Spellstone,WARLOCK
+LOOT_044,Bladed Gauntlet,WARRIOR
+LOOT_047,Barkskin,DRUID
+LOOT_048,Ironwood Golem,DRUID
+LOOT_051,Lesser Jasper Spellstone,DRUID
+LOOT_054,Branching Paths,DRUID
+LOOT_056,Astral Tiger,DRUID
+LOOT_060,Crushing Hand,SHAMAN
+LOOT_062,Kobold Hermit,SHAMAN
+LOOT_064,Lesser Sapphire Spellstone,SHAMAN
+LOOT_069,Sewer Crawler,NEUTRAL
+LOOT_077,Flanking Strike,HUNTER
+LOOT_078,Cave Hydra,HUNTER
+LOOT_079,Wandering Monster,HUNTER
+LOOT_080,Lesser Emerald Spellstone,HUNTER
+LOOT_085,Rhok'delar,HUNTER
+LOOT_088,Potion of Heroism,PALADIN
+LOOT_091,Lesser Pearl Spellstone,PALADIN
+LOOT_093,Call to Arms,PALADIN
+LOOT_101,Explosive Runes,MAGE
+LOOT_103,Lesser Ruby Spellstone,MAGE
+LOOT_104,Shifting Scroll,MAGE
+LOOT_106,Deck of Wonders,MAGE
+LOOT_108,Aluneth,MAGE
+LOOT_111,Scorp-o-matic,NEUTRAL
+LOOT_117,Wax Elemental,NEUTRAL
+LOOT_118,Ebon Dragonsmith,NEUTRAL
+LOOT_122,Corrosive Sludge,NEUTRAL
+LOOT_124,Lone Champion,NEUTRAL
+LOOT_125,Stoneskin Basilisk,NEUTRAL
+LOOT_130,Arcane Tyrant,NEUTRAL
+LOOT_131,Green Jelly,NEUTRAL
+LOOT_132,Dragonslayer,NEUTRAL
+LOOT_134,Toothy Chest,NEUTRAL
+LOOT_136,Sneaky Devil,NEUTRAL
+LOOT_137,Sleepy Dragon,NEUTRAL
+LOOT_144,Hoarding Dragon,NEUTRAL
+LOOT_149,Corridor Creeper,NEUTRAL
+LOOT_150,Furbolg Mossbinder,NEUTRAL
+LOOT_152,Boisterous Bard,NEUTRAL
+LOOT_153,Violet Wurm,NEUTRAL
+LOOT_154,Gravelsnout Knight,NEUTRAL
+LOOT_161,Carnivorous Cube,NEUTRAL
+LOOT_165,Sonya Shadowdancer,ROGUE
+LOOT_167,Fungalmancer,NEUTRAL
+LOOT_170,Raven Familiar,MAGE
+LOOT_172,Dragon's Fury,MAGE
+LOOT_184,Silver Vanguard,NEUTRAL
+LOOT_187,Twilight's Call,PRIEST
+LOOT_193,Shimmering Courser,NEUTRAL
+LOOT_203,Lesser Mithril Spellstone,WARRIOR
+LOOT_204,Cheat Death,ROGUE
+LOOT_209,Dragon Soul,PRIEST
+LOOT_210,Sudden Betrayal,ROGUE
+LOOT_211,Elven Minstrel,ROGUE
+LOOT_214,Evasion,ROGUE
+LOOT_216,Lynessa Sunsorrow,PALADIN
+LOOT_217,To My Side!,HUNTER
+LOOT_218,Feral Gibberer,NEUTRAL
+LOOT_222,Candleshot,HUNTER
+LOOT_231,Arcane Artificer,MAGE
+LOOT_233,Cursed Disciple,NEUTRAL
+LOOT_258,Dire Mole,NEUTRAL
+LOOT_278,Unidentified Elixir,PRIEST
+LOOT_285,Unidentified Shield,WARRIOR
+LOOT_286,Unidentified Maul,PALADIN
+LOOT_291,Shroom Brewer,NEUTRAL
+LOOT_306,Possessed Lackey,WARLOCK
+LOOT_309,Oaken Summons,DRUID
+LOOT_313,Crystal Lion,PALADIN
+LOOT_314,Grizzled Guardian,DRUID
+LOOT_315,Trogg Gloomeater,NEUTRAL
+LOOT_329,"Ixlid, Fungal Lord",DRUID
+LOOT_333,Level Up!,PALADIN
+LOOT_344,Primal Talismans,SHAMAN
+LOOT_347,Kobold Apprentice,NEUTRAL
+LOOT_351,Greedy Sprite,DRUID
+LOOT_353,Psionic Probe,PRIEST
+LOOT_357,Marin the Fox,NEUTRAL
+LOOT_358,"Grumble, Worldshaker",SHAMAN
+LOOT_363,Drygulch Jailor,PALADIN
+LOOT_364,Reckless Flurry,WARRIOR
+LOOT_365,Gemstudded Golem,WARRIOR
+LOOT_367,Drywhisker Armorer,WARRIOR
+LOOT_368,Voidlord,WARLOCK
+LOOT_370,Gather Your Party,WARRIOR
+LOOT_373,Healing Rain,SHAMAN
+LOOT_375,Guild Recruiter,NEUTRAL
+LOOT_380,Woecleaver,WARRIOR
+LOOT_382,Kobold Monk,NEUTRAL
+LOOT_383,Hungry Ettin,NEUTRAL
+LOOT_388,Fungal Enchanter,NEUTRAL
+LOOT_389,Rummaging Kobold,NEUTRAL
+LOOT_392,Twig of the World Tree,DRUID
+LOOT_394,Shrieking Shroom,NEUTRAL
+LOOT_398,Benevolent Djinn,PALADIN
+LOOT_410,Duskbreaker,PRIEST
+LOOT_412,Kobold Illusionist,ROGUE
+LOOT_413,Plated Beetle,NEUTRAL
+LOOT_414,Grand Archivist,NEUTRAL
+LOOT_415,"Rin, the First Disciple",WARLOCK
+LOOT_417,Cataclysm,WARLOCK
+LOOT_420,Skull of the Man'ari,WARLOCK
+LOOT_500,Val'anyr,PALADIN
+LOOT_503,Lesser Onyx Spellstone,ROGUE
+LOOT_504,Unstable Evolution,SHAMAN
+LOOT_506,The Runespear,SHAMAN
+LOOT_507,Lesser Diamond Spellstone,PRIEST
+LOOT_511,Kathrena Winterwisp,HUNTER
+LOOT_516,Zola the Gorgon,NEUTRAL
+LOOT_517,Murmuring Elemental,SHAMAN
+LOOT_518,Windshear Stormcaller,SHAMAN
+LOOT_519,Geosculptor Yip,WARRIOR
+LOOT_520,Seeping Oozeling,HUNTER
+LOOT_521,Master Oakheart,NEUTRAL
+LOOT_522,Crushing Walls,HUNTER
+LOOT_526,The Darkness,NEUTRAL
+LOOT_528,Twilight Acolyte,PRIEST
+LOOT_529,Void Ripper,NEUTRAL
+LOOT_534,Gilded Gargoyle,PRIEST
+LOOT_535,Dragoncaller Alanna,MAGE
+LOOT_537,Leyline Manipulator,MAGE
+LOOT_538,Temporus,PRIEST
+LOOT_539,Spiteful Summoner,NEUTRAL
+LOOT_540,Dragonhatcher,NEUTRAL
+LOOT_541,King Togwaggle,NEUTRAL
+LOOT_542,Kingsbane,ROGUE
+NEW1_003,Sacrificial Pact,WARLOCK
+NEW1_004,Vanish,ROGUE
+NEW1_005,Kidnapper,ROGUE
+NEW1_007,Starfall,DRUID
+NEW1_008,Ancient of Lore,DRUID
+NEW1_010,Al'Akir the Windlord,SHAMAN
+NEW1_011,Kor'kron Elite,WARRIOR
+NEW1_012,Mana Wyrm,MAGE
+NEW1_014,Master of Disguise,ROGUE
+NEW1_016,Captain's Parrot,NEUTRAL
+NEW1_017,Hungry Crab,NEUTRAL
+NEW1_018,Bloodsail Raider,NEUTRAL
+NEW1_019,Knife Juggler,NEUTRAL
+NEW1_020,Wild Pyromancer,NEUTRAL
+NEW1_021,Doomsayer,NEUTRAL
+NEW1_022,Dread Corsair,NEUTRAL
+NEW1_023,Faerie Dragon,NEUTRAL
+NEW1_024,Captain Greenskin,NEUTRAL
+NEW1_025,Bloodsail Corsair,NEUTRAL
+NEW1_026,Violet Teacher,NEUTRAL
+NEW1_027,Southsea Captain,NEUTRAL
+NEW1_029,Millhouse Manastorm,NEUTRAL
+NEW1_030,Deathwing,NEUTRAL
+NEW1_031,Animal Companion,HUNTER
+NEW1_036,Commanding Shout,WARRIOR
+NEW1_037,Master Swordsmith,NEUTRAL
+NEW1_038,Gruul,NEUTRAL
+NEW1_040,Hogger,NEUTRAL
+NEW1_041,Stampeding Kodo,NEUTRAL
+OG_006,Vilefin Inquisitor,PALADIN
+OG_023,Primal Fusion,SHAMAN
+OG_024,Flamewreathed Faceless,SHAMAN
+OG_026,Eternal Sentinel,SHAMAN
+OG_027,Evolve,SHAMAN
+OG_028,Thing from Below,SHAMAN
+OG_031,Hammer of Twilight,SHAMAN
+OG_033,Tentacles for Arms,WARRIOR
+OG_034,Silithid Swarmer,NEUTRAL
+OG_042,"Y'Shaarj, Rage Unbound",NEUTRAL
+OG_044,Fandral Staghelm,DRUID
+OG_045,Infest,HUNTER
+OG_047,Feral Rage,DRUID
+OG_048,Mark of Y'Shaarj,DRUID
+OG_051,Forbidden Ancient,DRUID
+OG_061,On the Hunt,HUNTER
+OG_070,Bladed Cultist,ROGUE
+OG_072,Journey Below,ROGUE
+OG_073,Thistle Tea,ROGUE
+OG_080,"Xaril, Poisoned Mind",ROGUE
+OG_081,Shatter,MAGE
+OG_082,Evolved Kobold,NEUTRAL
+OG_083,Twilight Flamecaller,MAGE
+OG_085,Demented Frostcaller,MAGE
+OG_086,Forbidden Flame,MAGE
+OG_087,Servant of Yogg-Saron,MAGE
+OG_090,Cabalist's Tome,MAGE
+OG_094,Power Word: Tentacles,PRIEST
+OG_096,Twilight Darkmender,PRIEST
+OG_100,Shadow Word: Horror,PRIEST
+OG_101,Forbidden Shaping,PRIEST
+OG_102,Darkspeaker,NEUTRAL
+OG_104,Embrace the Shadow,PRIEST
+OG_109,Darkshire Librarian,WARLOCK
+OG_113,Darkshire Councilman,WARLOCK
+OG_114,Forbidden Ritual,WARLOCK
+OG_116,Spreading Madness,WARLOCK
+OG_118,Renounce Darkness,WARLOCK
+OG_120,Anomalus,MAGE
+OG_121,Cho'gall,WARLOCK
+OG_122,"Mukla, Tyrant of the Vale",NEUTRAL
+OG_123,Shifter Zerus,NEUTRAL
+OG_131,Twin Emperor Vek'lor,NEUTRAL
+OG_133,"N'Zoth, the Corruptor",NEUTRAL
+OG_134,"Yogg-Saron, Hope's End",NEUTRAL
+OG_138,Nerubian Prophet,NEUTRAL
+OG_141,Faceless Behemoth,NEUTRAL
+OG_142,Eldritch Horror,NEUTRAL
+OG_145,Psych-o-Tron,NEUTRAL
+OG_147,Corrupted Healbot,NEUTRAL
+OG_149,Ravaging Ghoul,WARRIOR
+OG_150,Aberrant Berserker,NEUTRAL
+OG_151,Tentacle of N'Zoth,NEUTRAL
+OG_152,Grotesque Dragonhawk,NEUTRAL
+OG_153,Bog Creeper,NEUTRAL
+OG_156,Bilefin Tidehunter,NEUTRAL
+OG_158,Zealous Initiate,NEUTRAL
+OG_161,Corrupted Seer,NEUTRAL
+OG_162,Disciple of C'Thun,NEUTRAL
+OG_173,Blood of The Ancient One,NEUTRAL
+OG_174,Faceless Shambler,NEUTRAL
+OG_176,Shadow Strike,ROGUE
+OG_179,Fiery Bat,HUNTER
+OG_188,Klaxxi Amber-Weaver,DRUID
+OG_195,Wisps of the Old Gods,DRUID
+OG_198,Forbidden Healing,PALADIN
+OG_200,Validated Doomsayer,NEUTRAL
+OG_202,Mire Keeper,DRUID
+OG_206,Stormcrack,SHAMAN
+OG_207,Faceless Summoner,MAGE
+OG_209,Hallazeal the Ascended,SHAMAN
+OG_211,Call of the Wild,HUNTER
+OG_216,Infested Wolf,HUNTER
+OG_218,Bloodhoof Brave,WARRIOR
+OG_220,Malkorok,WARRIOR
+OG_221,Selfless Hero,PALADIN
+OG_222,Rallying Blade,PALADIN
+OG_223,Divine Strength,PALADIN
+OG_229,"Ragnaros, Lightlord",PALADIN
+OG_234,Darkshire Alchemist,PRIEST
+OG_239,DOOM!,WARLOCK
+OG_241,Possessed Villager,WARLOCK
+OG_247,Twisted Worgen,NEUTRAL
+OG_248,Am'gam Rager,NEUTRAL
+OG_249,Infested Tauren,NEUTRAL
+OG_254,Eater of Secrets,NEUTRAL
+OG_255,Doomcaller,NEUTRAL
+OG_256,Spawn of N'Zoth,NEUTRAL
+OG_267,Southsea Squidface,ROGUE
+OG_271,Scaled Nightmare,NEUTRAL
+OG_272,Twilight Summoner,NEUTRAL
+OG_273,Stand Against Darkness,PALADIN
+OG_276,Blood Warriors,WARRIOR
+OG_280,C'Thun,NEUTRAL
+OG_281,Beckoner of Evil,NEUTRAL
+OG_282,Blade of C'Thun,ROGUE
+OG_283,C'Thun's Chosen,NEUTRAL
+OG_284,Twilight Geomancer,NEUTRAL
+OG_286,Twilight Elder,NEUTRAL
+OG_290,Ancient Harbinger,NEUTRAL
+OG_291,Shadowcaster,ROGUE
+OG_292,Forlorn Stalker,HUNTER
+OG_293,Dark Arakkoa,DRUID
+OG_295,Cult Apothecary,NEUTRAL
+OG_300,The Boogeymonster,NEUTRAL
+OG_301,Ancient Shieldbearer,WARRIOR
+OG_302,Usher of Souls,WARLOCK
+OG_303,Cult Sorcerer,MAGE
+OG_308,Giant Sand Worm,HUNTER
+OG_309,Princess Huhuran,HUNTER
+OG_310,Steward of Darkshire,PALADIN
+OG_311,A Light in the Darkness,PALADIN
+OG_312,N'Zoth's First Mate,WARRIOR
+OG_313,Addled Grizzly,DRUID
+OG_314,Blood To Ichor,WARRIOR
+OG_315,Bloodsail Cultist,WARRIOR
+OG_316,Herald Volazj,PRIEST
+OG_317,"Deathwing, Dragonlord",NEUTRAL
+OG_318,"Hogger, Doom of Elwynn",NEUTRAL
+OG_320,Midnight Drake,NEUTRAL
+OG_321,Crazed Worshipper,NEUTRAL
+OG_322,Blackwater Pirate,NEUTRAL
+OG_323,Polluted Hoarder,NEUTRAL
+OG_325,Carrion Grub,HUNTER
+OG_326,Duskboar,NEUTRAL
+OG_327,Squirming Tentacle,NEUTRAL
+OG_328,Master of Evolution,SHAMAN
+OG_330,Undercity Huckster,ROGUE
+OG_334,Hooded Acolyte,PRIEST
+OG_335,Shifting Shade,PRIEST
+OG_337,Cyclopian Horror,NEUTRAL
+OG_338,"Nat, the Darkfisher",NEUTRAL
+OG_339,Skeram Cultist,NEUTRAL
+OG_340,Soggoth the Slitherer,NEUTRAL
+PRO_001,Elite Tauren Chieftain,NEUTRAL
+TRL_010,Half-Time Scavenger,NEUTRAL
+TRL_012,Totemic Smash,SHAMAN
+TRL_015,Ticket Scalper,NEUTRAL
+TRL_020,Sightless Ranger,NEUTRAL
+TRL_057,Serpent Ward,NEUTRAL
+TRL_058,Haunting Visions,SHAMAN
+TRL_059,Bog Slosher,SHAMAN
+TRL_060,Spirit of the Frog,SHAMAN
+TRL_071,Bloodsail Howler,ROGUE
+TRL_074,Serrated Tooth,ROGUE
+TRL_077,Gurubashi Hypemon,ROGUE
+TRL_082,Big Bad Voodoo,SHAMAN
+TRL_085,Zentimo,SHAMAN
+TRL_092,Spirit of the Shark,ROGUE
+TRL_096,Griftah,NEUTRAL
+TRL_097,Seance,PRIEST
+TRL_111,Headhunter's Hatchet,HUNTER
+TRL_119,The Beast Within,HUNTER
+TRL_124,Raiding Party,ROGUE
+TRL_126,Captain Hooktusk,ROGUE
+TRL_127,Cannon Barrage,ROGUE
+TRL_128,Regenerate,PRIEST
+TRL_131,Sand Drudge,PRIEST
+TRL_151,Former Champ,NEUTRAL
+TRL_156,Stolen Steel,ROGUE
+TRL_157,Walk the Plank,ROGUE
+TRL_223,Spirit of the Raptor,DRUID
+TRL_232,Ironhide Direhorn,DRUID
+TRL_240,Savage Striker,DRUID
+TRL_241,"Gonk, the Raptor",DRUID
+TRL_243,Pounce,DRUID
+TRL_244,Predatory Instincts,DRUID
+TRL_245,Shriek,WARLOCK
+TRL_246,Void Contract,WARLOCK
+TRL_247,Soulwarden,WARLOCK
+TRL_249,Grim Rally,WARLOCK
+TRL_251,Spirit of the Bat,WARLOCK
+TRL_252,High Priestess Jeklik,WARLOCK
+TRL_253,"Hir'eek, the Bat",WARLOCK
+TRL_254,Mark of the Loa,DRUID
+TRL_255,Stampeding Roar,DRUID
+TRL_257,Blood Troll Sapper,WARLOCK
+TRL_258,Mass Hysteria,PRIEST
+TRL_259,Princess Talanji,PRIEST
+TRL_260,"Bwonsamdi, the Dead",PRIEST
+TRL_300,"Shirvallah, the Tiger",PALADIN
+TRL_302,Time Out!,PALADIN
+TRL_304,Farraki Battleaxe,PALADIN
+TRL_305,A New Challenger...,PALADIN
+TRL_306,Immortal Prelate,PALADIN
+TRL_307,Flash of Light,PALADIN
+TRL_308,High Priest Thekal,PALADIN
+TRL_309,Spirit of the Tiger,PALADIN
+TRL_310,Elemental Evocation,MAGE
+TRL_311,Arcanosaur,MAGE
+TRL_312,Spellzerker,NEUTRAL
+TRL_313,Scorch,MAGE
+TRL_315,Pyromaniac,MAGE
+TRL_316,"Jan'alai, the Dragonhawk",MAGE
+TRL_317,Blast Wave,MAGE
+TRL_318,Hex Lord Malacrass,MAGE
+TRL_319,Spirit of the Dragonhawk,MAGE
+TRL_321,Devastate,WARRIOR
+TRL_323,Emberscale Drake,WARRIOR
+TRL_324,Heavy Metal!,WARRIOR
+TRL_325,Sul'thraze,WARRIOR
+TRL_326,Smolderthorn Lancer,WARRIOR
+TRL_327,Spirit of the Rhino,WARRIOR
+TRL_328,War Master Voone,WARRIOR
+TRL_329,"Akali, the Rhino",WARRIOR
+TRL_339,Master's Call,HUNTER
+TRL_341,Treespeaker,DRUID
+TRL_343,Wardruid Loti,DRUID
+TRL_345,"Krag'wa, the Frog",SHAMAN
+TRL_347,Baited Arrow,HUNTER
+TRL_348,Springpaw,HUNTER
+TRL_349,Bloodscalp Strategist,HUNTER
+TRL_351,Rain of Toads,SHAMAN
+TRL_352,Likkim,SHAMAN
+TRL_360,Overlord's Whip,WARRIOR
+TRL_362,Dragon Roar,WARRIOR
+TRL_363,Saronite Taskmaster,NEUTRAL
+TRL_390,Daring Fire-Eater,MAGE
+TRL_400,Splitting Image,MAGE
+TRL_405,Untamed Beastmaster,NEUTRAL
+TRL_406,Dozing Marksman,NEUTRAL
+TRL_407,Waterboy,NEUTRAL
+TRL_408,Grave Horror,PRIEST
+TRL_409,"Gral, the Shark",ROGUE
+TRL_500,Surrender to Madness,PRIEST
+TRL_501,Auchenai Phantasm,PRIEST
+TRL_502,Spirit of the Dead,PRIEST
+TRL_503,Scarab Egg,NEUTRAL
+TRL_504,Booty Bay Bookie,NEUTRAL
+TRL_505,Helpless Hatchling,NEUTRAL
+TRL_506,Gurubashi Chicken,NEUTRAL
+TRL_507,Sharkfin Fan,NEUTRAL
+TRL_508,Regeneratin' Thug,NEUTRAL
+TRL_509,Banana Buffoon,NEUTRAL
+TRL_512,Cheaty Anklebiter,NEUTRAL
+TRL_513,Mosh'Ogg Enforcer,NEUTRAL
+TRL_514,Belligerent Gnome,NEUTRAL
+TRL_515,Rabble Bouncer,NEUTRAL
+TRL_516,Gurubashi Offering,NEUTRAL
+TRL_517,Arena Fanatic,NEUTRAL
+TRL_520,Murloc Tastyfin,NEUTRAL
+TRL_521,Arena Patron,NEUTRAL
+TRL_522,Wartbringer,SHAMAN
+TRL_523,Firetree Witchdoctor,NEUTRAL
+TRL_524,Shieldbreaker,NEUTRAL
+TRL_525,Arena Treasure Chest,NEUTRAL
+TRL_526,Dragonmaw Scorcher,NEUTRAL
+TRL_527,Drakkari Trickster,NEUTRAL
+TRL_528,Linecracker,NEUTRAL
+TRL_530,Masked Contender,NEUTRAL
+TRL_531,Rumbletusk Shaker,NEUTRAL
+TRL_532,Mosh'Ogg Announcer,NEUTRAL
+TRL_533,Ice Cream Peddler,NEUTRAL
+TRL_535,Snapjaw Shellfighter,NEUTRAL
+TRL_537,Da Undatakah,NEUTRAL
+TRL_541,"Hakkar, the Soulflayer",NEUTRAL
+TRL_542,Oondasta,NEUTRAL
+TRL_543,Bloodclaw,PALADIN
+TRL_545,Zandalari Templar,PALADIN
+TRL_546,Ornery Tortoise,NEUTRAL
+TRL_550,Amani War Bear,NEUTRAL
+TRL_551,Reckless Diretroll,WARLOCK
+TRL_555,Demonbolt,WARLOCK
+TRL_564,Mojomaster Zihi,NEUTRAL
+TRL_566,Revenge of the Wild,HUNTER
+TRL_569,Crowd Roaster,NEUTRAL
+TRL_570,Soup Vendor,NEUTRAL
+TRL_900,"Halazzi, the Lynx",HUNTER
+TRL_901,Spirit of the Lynx,HUNTER
+tt_004,Flesheating Ghoul,NEUTRAL
+tt_010,Spellbender,MAGE
+ULD_003,Zephrys the Great,NEUTRAL
+ULD_131,Untapped Potential,DRUID
+ULD_133,Crystal Merchant,DRUID
+ULD_134,BEEEES!!!,DRUID
+ULD_135,Hidden Oasis,DRUID
+ULD_136,Worthy Expedition,DRUID
+ULD_137,Garden Gnome,DRUID
+ULD_138,Anubisath Defender,DRUID
+ULD_139,Elise the Enlightened,DRUID
+ULD_140,Supreme Archaeology,WARLOCK
+ULD_143,Pharaoh's Blessing,PALADIN
+ULD_145,Brazen Zealot,PALADIN
+ULD_151,Ramkahen Wildtamer,HUNTER
+ULD_152,Pressure Plate,HUNTER
+ULD_154,Hyena Alpha,HUNTER
+ULD_155,Unseal the Vault,HUNTER
+ULD_156,Dinotamer Brann,HUNTER
+ULD_157,Questing Explorer,NEUTRAL
+ULD_158,Sandstorm Elemental,SHAMAN
+ULD_160,Sinister Deal,WARLOCK
+ULD_161,Neferset Thrasher,WARLOCK
+ULD_162,EVIL Recruiter,WARLOCK
+ULD_163,Expired Merchant,WARLOCK
+ULD_165,Riftcleaver,WARLOCK
+ULD_167,Diseased Vulture,WARLOCK
+ULD_168,Dark Pharaoh Tekahn,WARLOCK
+ULD_169,Mogu Fleshshaper,SHAMAN
+ULD_170,Weaponized Wasp,SHAMAN
+ULD_171,Totemic Surge,SHAMAN
+ULD_172,Plague of Murlocs,SHAMAN
+ULD_173,Vessina,SHAMAN
+ULD_174,Serpent Egg,NEUTRAL
+ULD_177,Octosari,NEUTRAL
+ULD_178,Siamat,NEUTRAL
+ULD_179,Phalanx Commander,NEUTRAL
+ULD_180,Sunstruck Henchman,NEUTRAL
+ULD_181,Earthquake,SHAMAN
+ULD_182,Spitting Camel,NEUTRAL
+ULD_183,Anubisath Warbringer,NEUTRAL
+ULD_184,Kobold Sandtrooper,NEUTRAL
+ULD_185,Temple Berserker,NEUTRAL
+ULD_186,Pharaoh Cat,ROGUE
+ULD_188,Golden Scarab,NEUTRAL
+ULD_189,Faceless Lurker,NEUTRAL
+ULD_190,Pit Crocolisk,NEUTRAL
+ULD_191,Beaming Sidekick,NEUTRAL
+ULD_193,Living Monument,NEUTRAL
+ULD_194,Wasteland Scorpid,NEUTRAL
+ULD_195,Frightened Flunky,WARRIOR
+ULD_196,Neferset Ritualist,NEUTRAL
+ULD_197,Quicksand Elemental,NEUTRAL
+ULD_198,Conjured Mirage,NEUTRAL
+ULD_205,Candletaker,NEUTRAL
+ULD_206,Restless Mummy,WARRIOR
+ULD_207,Ancestral Guardian,PALADIN
+ULD_208,Khartut Defender,NEUTRAL
+ULD_209,Vulpera Scoundrel,NEUTRAL
+ULD_212,Wild Bloodstinger,HUNTER
+ULD_214,Generous Mummy,NEUTRAL
+ULD_215,Wrapped Golem,NEUTRAL
+ULD_216,Puzzle Box of Yogg-Saron,MAGE
+ULD_217,Micro Mummy,PALADIN
+ULD_229,Mischief Maker,NEUTRAL
+ULD_231,Whirlkick Master,ROGUE
+ULD_236,Tortollan Pilgrim,MAGE
+ULD_238,Reno the Relicologist,MAGE
+ULD_239,Flame Ward,MAGE
+ULD_240,Arcane Flakmage,MAGE
+ULD_250,Infested Goblin,NEUTRAL
+ULD_253,Tomb Warden,WARRIOR
+ULD_256,Into the Fray,WARRIOR
+ULD_258,Armagedillo,WARRIOR
+ULD_262,High Priest Amet,PRIEST
+ULD_265,Embalming Ritual,PRIEST
+ULD_266,Grandmummy,PRIEST
+ULD_268,Psychopomp,PRIEST
+ULD_269,Wretched Reclaimer,PRIEST
+ULD_270,Sandhoof Waterbearer,PRIEST
+ULD_271,Injured Tol'vir,NEUTRAL
+ULD_272,Holy Ripple,PRIEST
+ULD_273,Overflow,DRUID
+ULD_274,Wasteland Assassin,NEUTRAL
+ULD_275,Bone Wraith,NEUTRAL
+ULD_276,EVIL Totem,SHAMAN
+ULD_280,Sahket Sapper,ROGUE
+ULD_282,Jar Dealer,NEUTRAL
+ULD_285,Hooked Scimitar,ROGUE
+ULD_286,Shadow of Death,ROGUE
+ULD_288,"Anka, the Buried",ROGUE
+ULD_289,Fishflinger,NEUTRAL
+ULD_290,History Buff,NEUTRAL
+ULD_291,Corrupt the Waters,SHAMAN
+ULD_292,Oasis Surger,DRUID
+ULD_293,Cloud Prince,MAGE
+ULD_304,King Phaoris,NEUTRAL
+ULD_309,Dwarven Archaeologist,NEUTRAL
+ULD_324,Impbalming,WARLOCK
+ULD_326,Bazaar Burglary,ROGUE
+ULD_327,Bazaar Mugger,ROGUE
+ULD_328,Clever Disguise,ROGUE
+ULD_329,Dune Sculptor,MAGE
+ULD_410,Scarlet Webweaver,HUNTER
+ULD_413,Splitting Axe,SHAMAN
+ULD_429,Hunter's Pack,HUNTER
+ULD_430,Desert Spear,HUNTER
+ULD_431,Making Mummies,PALADIN
+ULD_433,Raid the Sky Temple,MAGE
+ULD_435,Naga Sand Witch,MAGE
+ULD_438,Salhet's Pride,PALADIN
+ULD_439,Sandwasp Queen,PALADIN
+ULD_450,Vilefiend,NEUTRAL
+ULD_500,Sir Finley of the Sands,PALADIN
+ULD_702,Mortuary Machine,NEUTRAL
+ULD_703,Desert Obelisk,NEUTRAL
+ULD_705,Mogu Cultist,NEUTRAL
+ULD_706,Blatant Decoy,NEUTRAL
+ULD_707,Plague of Wrath,WARRIOR
+ULD_708,Livewire Lance,WARRIOR
+ULD_709,Armored Goon,WARRIOR
+ULD_711,Hack the System,WARRIOR
+ULD_712,Bug Collector,NEUTRAL
+ULD_713,Swarm of Locusts,HUNTER
+ULD_714,Penance,PRIEST
+ULD_715,Plague of Madness,ROGUE
+ULD_716,Tip the Scales,PALADIN
+ULD_717,Plague of Flames,WARLOCK
+ULD_718,Plague of Death,PRIEST
+ULD_719,Desert Hare,NEUTRAL
+ULD_720,Bloodsworn Mercenary,WARRIOR
+ULD_721,Colossus of the Moon,NEUTRAL
+ULD_723,Murmy,NEUTRAL
+ULD_724,Activate the Obelisk,PRIEST
+ULD_726,Ancient Mysteries,MAGE
+ULD_727,Body Wrapper,NEUTRAL
+ULD_728,Subdue,PALADIN
+UNG_001,Pterrordax Hatchling,NEUTRAL
+UNG_002,Volcanosaur,NEUTRAL
+UNG_004,Dinosize,PALADIN
+UNG_009,Ravasaur Runt,NEUTRAL
+UNG_010,Sated Threshadon,NEUTRAL
+UNG_011,Hydrologist,PALADIN
+UNG_015,Sunkeeper Tarim,PALADIN
+UNG_018,Flame Geyser,MAGE
+UNG_019,Air Elemental,SHAMAN
+UNG_020,Arcanologist,MAGE
+UNG_021,Steam Surger,MAGE
+UNG_022,Mirage Caller,PRIEST
+UNG_024,Mana Bind,MAGE
+UNG_025,Volcano,SHAMAN
+UNG_027,Pyros,MAGE
+UNG_028,Open the Waygate,MAGE
+UNG_029,Shadow Visions,PRIEST
+UNG_030,Binding Heal,PRIEST
+UNG_032,Crystalline Oracle,PRIEST
+UNG_034,Radiant Elemental,PRIEST
+UNG_035,Curious Glimmerroot,PRIEST
+UNG_037,Tortollan Shellraiser,PRIEST
+UNG_047,Ravenous Pterrordax,WARLOCK
+UNG_049,Tar Lurker,WARLOCK
+UNG_057,Razorpetal Volley,ROGUE
+UNG_058,Razorpetal Lasher,ROGUE
+UNG_060,Mimic Pod,ROGUE
+UNG_061,Obsidian Shard,ROGUE
+UNG_063,Biteweed,ROGUE
+UNG_064,Vilespine Slayer,ROGUE
+UNG_065,"Sherazin, Corpse Flower",ROGUE
+UNG_067,The Caverns Below,ROGUE
+UNG_070,Tol'vir Stoneshaper,NEUTRAL
+UNG_071,Giant Mastodon,NEUTRAL
+UNG_072,Stonehill Defender,NEUTRAL
+UNG_073,Rockpool Hunter,NEUTRAL
+UNG_075,Vicious Fledgling,NEUTRAL
+UNG_076,Eggnapper,NEUTRAL
+UNG_078,Tortollan Forager,DRUID
+UNG_079,Frozen Crusher,NEUTRAL
+UNG_082,Thunder Lizard,NEUTRAL
+UNG_083,Devilsaur Egg,NEUTRAL
+UNG_084,Fire Plume Phoenix,NEUTRAL
+UNG_085,Emerald Hive Queen,NEUTRAL
+UNG_086,Giant Anaconda,DRUID
+UNG_087,Bittertide Hydra,NEUTRAL
+UNG_088,Tortollan Primalist,NEUTRAL
+UNG_089,Gentle Megasaur,NEUTRAL
+UNG_099,Charged Devilsaur,NEUTRAL
+UNG_100,Verdant Longneck,DRUID
+UNG_101,Shellshifter,DRUID
+UNG_103,Evolving Spores,DRUID
+UNG_108,Earthen Scales,DRUID
+UNG_109,Elder Longneck,DRUID
+UNG_111,Living Mana,DRUID
+UNG_113,Bright-Eyed Scout,NEUTRAL
+UNG_116,Jungle Giants,DRUID
+UNG_201,Primalfin Totem,SHAMAN
+UNG_202,Fire Plume Harbinger,SHAMAN
+UNG_205,Glacial Shard,NEUTRAL
+UNG_208,Stone Sentinel,SHAMAN
+UNG_211,"Kalimos, Primal Lord",SHAMAN
+UNG_800,Terrorscale Stalker,HUNTER
+UNG_801,Nesting Roc,NEUTRAL
+UNG_803,Emerald Reaver,NEUTRAL
+UNG_806,Ultrasaur,NEUTRAL
+UNG_807,Golakka Crawler,NEUTRAL
+UNG_808,Stubborn Gastropod,NEUTRAL
+UNG_809,Fire Fly,NEUTRAL
+UNG_810,Stegodon,NEUTRAL
+UNG_812,Sabretooth Stalker,NEUTRAL
+UNG_813,Stormwatcher,NEUTRAL
+UNG_814,Giant Wasp,NEUTRAL
+UNG_816,Servant of Kalimos,NEUTRAL
+UNG_817,Tidal Surge,SHAMAN
+UNG_818,Volatile Elemental,NEUTRAL
+UNG_823,Envenom Weapon,ROGUE
+UNG_829,Lakkari Sacrifice,WARLOCK
+UNG_830,Cruel Dinomancer,WARLOCK
+UNG_831,Corrupting Mist,WARLOCK
+UNG_832,Bloodbloom,WARLOCK
+UNG_833,Lakkari Felhound,WARLOCK
+UNG_834,Feeding Time,WARLOCK
+UNG_835,Chittering Tunneler,WARLOCK
+UNG_836,Clutchmother Zavas,WARLOCK
+UNG_838,Tar Lord,WARRIOR
+UNG_840,"Hemet, Jungle Hunter",NEUTRAL
+UNG_843,The Voraxx,NEUTRAL
+UNG_844,Humongous Razorleaf,NEUTRAL
+UNG_845,Igneous Elemental,NEUTRAL
+UNG_846,Shimmering Tempest,MAGE
+UNG_847,Blazecaller,NEUTRAL
+UNG_848,Primordial Drake,NEUTRAL
+UNG_851,Elise the Trailblazer,NEUTRAL
+UNG_852,Tyrantus,DRUID
+UNG_854,Free From Amber,PRIEST
+UNG_856,Hallucination,ROGUE
+UNG_900,Spiritsinger Umbra,NEUTRAL
+UNG_907,Ozruk,NEUTRAL
+UNG_910,Grievous Bite,HUNTER
+UNG_912,Jeweled Macaw,HUNTER
+UNG_913,Tol'vir Warden,HUNTER
+UNG_914,Raptor Hatchling,HUNTER
+UNG_915,Crackling Razormaw,HUNTER
+UNG_916,Stampede,HUNTER
+UNG_917,Dinomancy,HUNTER
+UNG_919,Swamp King Dred,HUNTER
+UNG_920,The Marsh Queen,HUNTER
+UNG_922,Explore Un'Goro,WARRIOR
+UNG_923,Iron Hide,WARRIOR
+UNG_925,Ornery Direhorn,WARRIOR
+UNG_926,Cornered Sentry,WARRIOR
+UNG_927,Sudden Genesis,WARRIOR
+UNG_928,Tar Creeper,NEUTRAL
+UNG_929,Molten Blade,WARRIOR
+UNG_933,King Mosh,WARRIOR
+UNG_934,Fire Plume's Heart,WARRIOR
+UNG_937,Primalfin Lookout,NEUTRAL
+UNG_938,Hot Spring Guardian,SHAMAN
+UNG_940,Awaken the Makers,PRIEST
+UNG_941,Primordial Glyph,MAGE
+UNG_942,Unite the Murlocs,SHAMAN
+UNG_946,Gluttonous Ooze,NEUTRAL
+UNG_948,Molten Reflection,MAGE
+UNG_950,Vinecleaver,PALADIN
+UNG_952,Spikeridged Steed,PALADIN
+UNG_953,Primalfin Champion,PALADIN
+UNG_954,The Last Kaleidosaur,PALADIN
+UNG_955,Meteor,MAGE
+UNG_956,Spirit Echo,SHAMAN
+UNG_957,Direhorn Hatchling,WARRIOR
+UNG_960,Lost in the Jungle,PALADIN
+UNG_961,Adaptation,PALADIN
+UNG_962,Lightfused Stegodon,PALADIN
+UNG_963,Lyra the Sunshard,PRIEST
+YOD_001,Rising Winds,DRUID
+YOD_003,Winged Guardian,DRUID
+YOD_004,Chopshop Copter,HUNTER
+YOD_005,Fresh Scent,HUNTER
+YOD_006,Escaped Manasaber,NEUTRAL
+YOD_007,Animated Avalanche,MAGE
+YOD_008,Arcane Amplifier,MAGE
+YOD_010,Shotbot,PALADIN
+YOD_012,Air Raid,PALADIN
+YOD_013,Cleric of Scales,PRIEST
+YOD_014,Aeon Reaver,PRIEST
+YOD_015,Dark Prophecy,PRIEST
+YOD_016,Skyvateer,ROGUE
+YOD_017,Shadow Sculptor,ROGUE
+YOD_018,Waxmancy,ROGUE
+YOD_020,Explosive Evolution,SHAMAN
+YOD_022,Risky Skipper,WARRIOR
+YOD_023,Boom Squad,WARRIOR
+YOD_024,Bomb Wrangler,WARRIOR
+YOD_025,Twisted Knowledge,WARLOCK
+YOD_026,Fiendish Servant,WARLOCK
+YOD_027,Chaos Gazer,WARLOCK
+YOD_028,Skydiving Instructor,NEUTRAL
+YOD_029,Hailbringer,NEUTRAL
+YOD_030,Licensed Adventurer,NEUTRAL
+YOD_032,Frenzied Felwing,NEUTRAL
+YOD_033,Boompistol Bully,NEUTRAL
+YOD_035,Grand Lackey Erkh,NEUTRAL
+YOD_036,Rotnest Drake,HUNTER
+YOD_038,Sky Gen'ral Kragg,NEUTRAL
+YOD_040,Steel Beetle,DRUID
+YOD_041,Eye of the Storm,SHAMAN
+YOD_042,The Fist of Ra-den,SHAMAN
+YOD_043,Scalelord,PALADIN

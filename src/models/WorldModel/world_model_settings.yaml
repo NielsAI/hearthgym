@@ -1,0 +1,164 @@
+# REWARD MODES:
+# final_reward_mode:
+# 0: +10 for win and -10 for loss
+# 1: +100 for win and -100 for loss
+# else: +1 for win and -1 for loss
+
+# incremental_reward_mode:
+# 0: no incremental reward
+# 1: incremental reward without LOSING penalty
+# 2: incremental reward with LOSING penalty
+
+# Model types: Mask | RNN | MaskRNN | PPO
+
+# Info order: Job_ID - Tensorboard file - Model_Type (Class, Deck) - Smoothed_Score - Comments
+
+template: # Template for modelling
+  general: # General settings
+    name: SAVE_FOLDER_NAME
+    device: cuda
+    embedded: False
+    deck_include: False
+    deck_include_v2: False
+    collect_data: True
+    collect_masks: True
+    train_encoder: True
+    train_rssm: True
+    train_legality: True
+    train_controller: True
+  data_collection: # Data collection settings
+    num_episodes: 1000
+    final_reward_mode: 0 # 0: 10 for win and -10 for loss, 1: 100 for win and -100 for loss, else: 1 for win and -1 for loss
+    incremental_reward_mode: 1 # 0: no incremental reward, 1: incremental reward with potential calculation, 2: incremental reward with LOSING penalty
+    class1: all
+    class2: all
+    deck1: all
+    deck2: all
+    sampling_agent: RandomAgent
+    score_method: None
+  world_model: # General World model settings
+    num_cats: 16
+    cat_dim: 16
+  encoder: # MultiHeadAutoEncoder settings
+    epochs: 20
+    batch_size: 128
+    learning_rate: 0.001
+    cont_hidden_dim: 128
+    disc_hidden_dim: 32
+  rssm: # RNN settings
+    epochs: 100
+    batch_size: 24
+    hidden_dim: 256
+    learning_rate: 0.00005
+    sequence_length: 32
+    print_every: 1
+    predict_reward: True
+  legality_net:
+    widths: [512, 512]
+    epochs: 10
+    batch_size: 128
+    learning_rate: 0.0003
+  controller: # Controller settings (PPO-based)
+    model_type: Mask
+    use_dreamer_callback: False
+    policy_layers: [1024, 512, 256]
+    value_layers: [512, 512]
+    learning_rate: 0.00001
+    gamma: 0.99
+    gae_lambda: 0.95
+    max_steps: 256
+    n_steps: 512
+    batch_size: 256
+    clip_range: 0.2
+    ent_coef: 0.0
+    n_epochs: 5
+    seed: 42
+    total_steps: 1_000_000
+    eval_episodes: 5
+    player_class: all
+    player_deck: all
+    opponent_class: all
+    opponent_deck: all
+    mirror_matches: False
+    opponent_agent: RandomAgent
+    opponent_method: None
+    ema_sigma: 0.98
+    return_percentile: 95.0
+    osfp_alpha: None
+    osfp_update_freq: None
+    tensorboard_log: TENSORBOARD_FOLDER
+
+new_model:
+  general: # General settings
+    name: SAVE_FOLDER_NAME
+    device: cuda
+    embedded: False
+    deck_include: False
+    deck_include_v2: False
+    collect_data: True
+    collect_masks: True
+    train_encoder: True
+    train_rssm: True
+    train_legality: True
+    train_controller: True
+  data_collection: # Data collection settings
+    num_episodes: 1000
+    final_reward_mode: 0 # 0: 10 for win and -10 for loss, 1: 100 for win and -100 for loss, else: 1 for win and -1 for loss
+    incremental_reward_mode: 1 # 0: no incremental reward, 1: incremental reward with potential calculation, 2: incremental reward with LOSING penalty
+    class1: all
+    class2: all
+    deck1: all
+    deck2: all
+    sampling_agent: RandomAgent
+    score_method: None
+  world_model: # General World model settings
+    num_cats: 16
+    cat_dim: 16
+  encoder: # MultiHeadAutoEncoder settings
+    epochs: 20
+    batch_size: 128
+    learning_rate: 0.001
+    cont_hidden_dim: 128
+    disc_hidden_dim: 32
+  rssm: # RNN settings
+    epochs: 100
+    batch_size: 24
+    hidden_dim: 256
+    learning_rate: 0.00005
+    sequence_length: 32
+    print_every: 1
+    predict_reward: True
+  legality_net:
+    widths: [512, 512]
+    epochs: 10
+    batch_size: 128
+    learning_rate: 0.0003
+  controller: # Controller settings (PPO-based)
+    model_type: Mask
+    use_dreamer_callback: False
+    policy_layers: [1024, 512, 256]
+    value_layers: [512, 512]
+    learning_rate: 0.00001
+    gamma: 0.99
+    gae_lambda: 0.95
+    max_steps: 256
+    n_steps: 512
+    batch_size: 256
+    clip_range: 0.2
+    ent_coef: 0.0
+    n_epochs: 5
+    seed: 42
+    total_steps: 1_000_000
+    eval_episodes: 5
+    player_class: all
+    player_deck: all
+    opponent_class: all
+    opponent_deck: all
+    mirror_matches: False
+    opponent_agent: RandomAgent
+    opponent_method: None
+    ema_sigma: 0.98
+    return_percentile: 95.0
+    osfp_alpha: None
+    osfp_update_freq: None
+    tensorboard_log: TENSORBOARD_FOLDER

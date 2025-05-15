@@ -1,0 +1,126 @@
+# REWARD MODES:
+# final_reward_mode:
+# 0: +10 for win and -10 for loss
+# 1: +100 for win and -100 for loss
+# else: +1 for win and -1 for loss
+
+# incremental_reward_mode:
+# 0: no incremental reward
+# 1: incremental reward without LOSING penalty
+# 2: incremental reward with LOSING penalty
+
+# Model types: Mask | RNN | MaskRNN | PPO
+
+# Info order: Job_ID - Tensorboard file - Model_Type (Class, Deck) - Smoothed_Score - Comments
+
+template: # Template for modelling
+  general: # General settings
+    name: SAVE_FOLDER_NAME
+    device: cuda
+    embedded: False
+    deck_include: False
+    deck_include_v2: False
+    collect_data: True
+    train_encoder: True
+    train_controller: True
+  data_collection: # Data collection settings
+    num_episodes: 1000
+    final_reward_mode: 2 # 0: 10 for win and -10 for loss, 1: 100 for win and -100 for loss, else: 1 for win and -1 for loss
+    incremental_reward_mode: 0
+    class1: all
+    class2: all
+    deck1: all
+    deck2: all
+    sampling_agent: RandomAgent
+    score_method: None
+  encoder: # MultiHeadAutoEncoder settings
+    epochs: 50
+    batch_size: 128
+    learning_rate: 0.001
+    latent_dim: 50
+    cont_hidden_dim: 128
+    disc_hidden_dim: 32
+  controller: # Controller settings (PPO-based)
+    save_name: PPO_MODEL_NAME
+    model_type: Mask
+    policy_layers: [512, 512]
+    value_layers: [512, 512]
+    learning_rate: 0.00001
+    gamma: 0.99
+    gae_lambda: 0.95
+    n_steps: 512
+    batch_size: 256
+    clip_range: 0.2
+    ent_coef: 0.0
+    n_epochs: 5
+    seed: 42
+    total_steps: 1_000_000
+    eval_episodes: 5
+    final_reward_mode: 2 # 0: 10 for win and -10 for loss, 1: 100 for win and -100 for loss, else: 1 for win and -1 for loss
+    incremental_reward_mode: 0
+    player_class: all
+    player_deck: all
+    opponent_class: all
+    opponent_deck: all
+    mirror_matches: False
+    opponent_agent: RandomAgent
+    opponent_method: None
+    osfp_alpha: None
+    osfp_update_freq: None
+    tensorboard_log: TENSORBOARD_FOLDER
+
+new_model:
+  general: # General settings
+    name: SAVE_FOLDER_NAME
+    device: cuda
+    embedded: False
+    deck_include: False
+    deck_include_v2: False
+    collect_data: True
+    train_encoder: True
+    train_controller: True
+  data_collection: # Data collection settings
+    num_episodes: 1000
+    final_reward_mode: 2 # 0: 10 for win and -10 for loss, 1: 100 for win and -100 for loss, else: 1 for win and -1 for loss
+    incremental_reward_mode: 0
+    class1: all
+    class2: all
+    deck1: all
+    deck2: all
+    sampling_agent: RandomAgent
+    score_method: None
+  encoder: # MultiHeadAutoEncoder settings
+    epochs: 50
+    batch_size: 128
+    learning_rate: 0.001
+    latent_dim: 50
+    cont_hidden_dim: 128
+    disc_hidden_dim: 32
+  controller: # Controller settings (PPO-based)
+    save_name: PPO_MODEL_NAME
+    model_type: Mask
+    policy_layers: [512, 512]
+    value_layers: [512, 512]
+    learning_rate: 0.00001
+    gamma: 0.99
+    gae_lambda: 0.95
+    n_steps: 512
+    batch_size: 256
+    clip_range: 0.2
+    ent_coef: 0.0
+    n_epochs: 5
+    seed: 42
+    total_steps: 1_000_000
+    eval_episodes: 5
+    final_reward_mode: 2 # 0: 10 for win and -10 for loss, 1: 100 for win and -100 for loss, else: 1 for win and -1 for loss
+    incremental_reward_mode: 0
+    player_class: all
+    player_deck: all
+    opponent_class: all
+    opponent_deck: all
+    mirror_matches: False
+    opponent_agent: RandomAgent
+    opponent_method: None
+    osfp_alpha: None
+    osfp_update_freq: None
+    tensorboard_log: TENSORBOARD_FOLDER

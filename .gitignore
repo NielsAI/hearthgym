@@ -1,0 +1,34 @@
+__pycache__/
+*.pyc
+.hearth-venv/
+
+# Hearthstone Repositories
+fireplace/
+python-hearthstone/
+
+# Log files
+*.log
+logs/*.csv
+logs/*/*.csv
+logs/*.zip
+logs/*/*.zip
+logs/old_logs/
+
+# Analysis files
+combo_networks/
+wins_analysis
+
+# Pyvis files
+lib/
+
+# Tensorboard files
+tensorboard_*
+
+# World Model files
+all_states*
+training_data*
+mask_data*
+autoencoder.pth 
+mdn_rnn.pth
+
+controller_checkpoints/

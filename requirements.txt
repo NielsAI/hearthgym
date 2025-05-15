@@ -1,0 +1,40 @@
+# FIREPLACE: 
+# git clone https://github.com/jleclanche/fireplace.git
+# DONT FORGET TO DOWNLOAD THE CardDefs.xml FILE (https://github.com/jleclanche/fireplace/blob/master/fireplace/cards/CardDefs.xml) FROM THE FIREPLACE REPO LFS 
+# Place it in fireplace/fireplace/cards/CardDefs.xml
+# cd to fireplace and run `pip install .`
+
+# OpenAI Gym
+gymnasium==1.0.0
+
+# PyTorch (CUDA 12.4)
+# First, install CUDA 12.4 from https://developer.nvidia.com/cuda-12-4-0-download-archive
+# Then, run separate from pip install -r: pip install torch==2.5.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+# Sentence Transformers
+sentence-transformers
+
+# Stable Baselines3
+stable-baselines3[extra]==2.4.0
+sb3-contrib==2.4.0
+
+# Analysis dashboard
+streamlit==1.45.0
+
+# Finally, general libraries
+ipykernel==6.29.5
+numpy==1.26.4
+openpyxl==3.1.5
+pandas==2.2.3
+PyYAML==6.0.2
+tqdm==4.67.1
+setuptools==75.5.0
+seaborn==0.13.2
+matplotlib==3.10.0
+plotly==5.24.1
+pytorch-optimizer==3.5.1
+numba==0.61.0
+pyvis==0.3.2
+networkx==3.4.2
+tabulate==0.9.0
+tf-keras

@@ -1,0 +1,80 @@
+# REWARD MODES:
+# final_reward_mode:
+# 0: +10 for win and -10 for loss
+# 1: +100 for win and -100 for loss
+# else: +1 for win and -1 for loss
+
+# incremental_reward_mode:
+# 0: no incremental reward
+# 1: incremental reward without LOSING penalty
+# 2: incremental reward with LOSING penalty
+
+# Policy and value layers are the number of neurons in each layer
+# Policy can be deeper, since it has to select the best action
+# Value can be shallower, since it has to predict the value of the state
+
+template: 
+  name: MODEL_NAME
+  model_type: Mask # Model types: Mask | RNN | MaskRNN | PPO
+  device: cuda
+  embedded: False
+  deck_include: False
+  deck_include_v2: False
+  policy_layers: [512, 512]
+  value_layers: [512, 512]
+  learning_rate: 0.00001
+  gamma: 0.99
+  gae_lambda: 0.95
+  n_steps: 512
+  batch_size: 256
+  clip_range: 0.2
+  ent_coef: 0.0
+  n_epochs: 5
+  seed: 42
+  total_steps: 1_000_000
+  eval_episodes: 5
+  final_reward_mode: 2 # 0: 10 for win and -10 for loss, 1: 100 for win and -100 for loss, else: 1 for win and -1 for loss
+  incremental_reward_mode: 0
+  player_class: all
+  player_deck: all
+  opponent_class: all
+  opponent_deck: all
+  mirror_matches: False
+  opponent_agent: RandomAgent
+  opponent_method: None
+  osfp_alpha: None
+  osfp_update_freq: None
+  tensorboard_log: TENSORBOARD_FOLDER
+
+new_model:
+  name: MODEL_NAME
+  model_type: Mask # Model types: Mask | RNN | MaskRNN | PPO
+  device: cuda
+  embedded: False
+  deck_include: False
+  deck_include_v2: False
+  policy_layers: [512, 512]
+  value_layers: [512, 512]
+  learning_rate: 0.00001
+  gamma: 0.99
+  gae_lambda: 0.95
+  n_steps: 512
+  batch_size: 256
+  clip_range: 0.2
+  ent_coef: 0.0
+  n_epochs: 5
+  seed: 42
+  total_steps: 1_000_000
+  eval_episodes: 5
+  final_reward_mode: 2 # 0: 10 for win and -10 for loss, 1: 100 for win and -100 for loss, else: 1 for win and -1 for loss
+  incremental_reward_mode: 0
+  player_class: all
+  player_deck: all
+  opponent_class: all
+  opponent_deck: all
+  mirror_matches: False
+  opponent_agent: RandomAgent
+  opponent_method: None
+  osfp_alpha: None
+  osfp_update_freq: None
+  tensorboard_log: TENSORBOARD_FOLDER

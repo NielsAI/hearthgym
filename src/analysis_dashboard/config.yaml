@@ -1,0 +1,9 @@
+LOGS_FOLDER: logs/
+TENSORBOARD_FOLDER: tensorboards/
+DEFAULT_MAIN_FOLDER: default_logs
+  
+MESSAGES:
+  ERRORS:
+    START: Error starting the analysis dashboard
+    STOP: Error stopping the analysis dashboard
+    ANALYZER: Error loading the analyzer

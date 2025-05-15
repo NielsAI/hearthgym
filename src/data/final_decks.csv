@@ -1,0 +1,541 @@
+card_id,card_name,hero_class,deck_id
+EX1_169,Innervate,DRUID,deck_001
+EX1_169,Innervate,DRUID,deck_001
+CFM_614,Mark of the Lotus,DRUID,deck_001
+CFM_614,Mark of the Lotus,DRUID,deck_001
+AT_037,Living Roots,DRUID,deck_001
+AT_037,Living Roots,DRUID,deck_001
+EX1_160,Power of the Wild,DRUID,deck_001
+EX1_160,Power of the Wild,DRUID,deck_001
+EX1_154,Wrath,DRUID,deck_001
+EX1_154,Wrath,DRUID,deck_001
+CS2_011,Savage Roar,DRUID,deck_001
+CS2_011,Savage Roar,DRUID,deck_001
+EX1_158,Soul of the Forest,DRUID,deck_001
+EX1_158,Soul of the Forest,DRUID,deck_001
+CS2_012,Swipe,DRUID,deck_001
+CS2_012,Swipe,DRUID,deck_001
+EX1_571,Force of Nature,DRUID,deck_001
+EX1_571,Force of Nature,DRUID,deck_001
+NEW1_008,Ancient of Lore,DRUID,deck_001
+NEW1_008,Ancient of Lore,DRUID,deck_001
+EX1_166,Keeper of the Grove,DRUID,deck_001
+EX1_166,Keeper of the Grove,DRUID,deck_001
+NEW1_026,Violet Teacher,NEUTRAL,deck_001
+NEW1_026,Violet Teacher,NEUTRAL,deck_001
+EX1_008,Argent Squire,NEUTRAL,deck_001
+EX1_008,Argent Squire,NEUTRAL,deck_001
+NEW1_019,Knife Juggler,NEUTRAL,deck_001
+NEW1_019,Knife Juggler,NEUTRAL,deck_001
+EX1_556,Harvest Golem,NEUTRAL,deck_001
+EX1_556,Harvest Golem,NEUTRAL,deck_001
+EX1_169,Innervate,DRUID,deck_002
+EX1_169,Innervate,DRUID,deck_002
+CS2_013,Wild Growth,DRUID,deck_002
+CS2_013,Wild Growth,DRUID,deck_002
+EX1_154,Wrath,DRUID,deck_002
+EX1_154,Wrath,DRUID,deck_002
+CS2_012,Swipe,DRUID,deck_002
+CS2_012,Swipe,DRUID,deck_002
+EX1_164,Nourish,DRUID,deck_002
+EX1_164,Nourish,DRUID,deck_002
+OG_044,Fandral Staghelm,DRUID,deck_002
+CFM_602,Jade Idol,DRUID,deck_002
+CFM_602,Jade Idol,DRUID,deck_002
+CFM_713,Jade Blossom,DRUID,deck_002
+CFM_713,Jade Blossom,DRUID,deck_002
+CFM_715,Jade Spirit,DRUID,deck_002
+CFM_715,Jade Spirit,DRUID,deck_002
+CFM_343,Jade Behemoth,DRUID,deck_002
+CFM_343,Jade Behemoth,DRUID,deck_002
+EX1_166,Keeper of the Grove,DRUID,deck_002
+LOOT_054,Branching Paths,DRUID,deck_002
+LOOT_054,Branching Paths,DRUID,deck_002
+ICC_054,Spreading Plague,DRUID,deck_002
+ICC_054,Spreading Plague,DRUID,deck_002
+ICC_085,Ultimate Infestation,DRUID,deck_002
+ICC_085,Ultimate Infestation,DRUID,deck_002
+UNG_108,Earthen Scales,DRUID,deck_002
+UNG_108,Earthen Scales,DRUID,deck_002
+LOOT_309,Oaken Summons,DRUID,deck_002
+LOOT_309,Oaken Summons,DRUID,deck_002
+DS1_185,Arcane Shot,HUNTER,deck_003
+DS1_185,Arcane Shot,HUNTER,deck_003
+DS1_175,Timber Wolf,HUNTER,deck_003
+DS1_175,Timber Wolf,HUNTER,deck_003
+DS1_070,Houndmaster,HUNTER,deck_003
+DS1_070,Houndmaster,HUNTER,deck_003
+EX1_538,Unleash the Hounds,HUNTER,deck_003
+EX1_538,Unleash the Hounds,HUNTER,deck_003
+EX1_539,Kill Command,HUNTER,deck_003
+EX1_539,Kill Command,HUNTER,deck_003
+EX1_544,Flare,HUNTER,deck_003
+EX1_544,Flare,HUNTER,deck_003
+DS1_184,Tracking,HUNTER,deck_003
+DS1_184,Tracking,HUNTER,deck_003
+NEW1_031,Animal Companion,HUNTER,deck_003
+NEW1_031,Animal Companion,HUNTER,deck_003
+GVG_096,Piloted Shredder,NEUTRAL,deck_003
+GVG_096,Piloted Shredder,NEUTRAL,deck_003
+EX1_029,Leper Gnome,NEUTRAL,deck_003
+EX1_029,Leper Gnome,NEUTRAL,deck_003
+CS2_237,Starving Buzzard,HUNTER,deck_003
+CS2_237,Starving Buzzard,HUNTER,deck_003
+FP1_011,Webspinner,HUNTER,deck_003
+FP1_011,Webspinner,HUNTER,deck_003
+EX1_531,Scavenging Hyena,HUNTER,deck_003
+EX1_531,Scavenging Hyena,HUNTER,deck_003
+EX1_534,Savannah Highmane,HUNTER,deck_003
+EX1_534,Savannah Highmane,HUNTER,deck_003
+DS1_188,Gladiator's Longbow,HUNTER,deck_003
+DS1_188,Gladiator's Longbow,HUNTER,deck_003
+NEW1_031,Animal Companion,HUNTER,deck_004
+NEW1_031,Animal Companion,HUNTER,deck_004
+DS1_070,Houndmaster,HUNTER,deck_004
+DS1_070,Houndmaster,HUNTER,deck_004
+EX1_531,Scavenging Hyena,HUNTER,deck_004
+EX1_531,Scavenging Hyena,HUNTER,deck_004
+EX1_544,Flare,HUNTER,deck_004
+EX1_544,Flare,HUNTER,deck_004
+DS1_184,Tracking,HUNTER,deck_004
+DS1_184,Tracking,HUNTER,deck_004
+EX1_610,Explosive Trap,HUNTER,deck_004
+EX1_610,Explosive Trap,HUNTER,deck_004
+EX1_536,Eaglehorn Bow,HUNTER,deck_004
+EX1_536,Eaglehorn Bow,HUNTER,deck_004
+FP1_011,Webspinner,HUNTER,deck_004
+FP1_011,Webspinner,HUNTER,deck_004
+FP1_028,Undertaker,NEUTRAL,deck_004
+FP1_028,Undertaker,NEUTRAL,deck_004
+FP1_007,Nerubian Egg,NEUTRAL,deck_004
+FP1_007,Nerubian Egg,NEUTRAL,deck_004
+GVG_096,Piloted Shredder,NEUTRAL,deck_004
+GVG_096,Piloted Shredder,NEUTRAL,deck_004
+EX1_554,Snake Trap,HUNTER,deck_004
+EX1_554,Snake Trap,HUNTER,deck_004
+EX1_534,Savannah Highmane,HUNTER,deck_004
+EX1_534,Savannah Highmane,HUNTER,deck_004
+EX1_016,Sylvanas Windrunner,NEUTRAL,deck_004
+OG_133,"N'Zoth, the Corruptor",NEUTRAL,deck_004
+FP1_012,Sludge Belcher,NEUTRAL,deck_004
+FP1_012,Sludge Belcher,NEUTRAL,deck_004
+CS2_029,Fireball,MAGE,deck_005
+CS2_029,Fireball,MAGE,deck_005
+EX1_277,Arcane Missiles,MAGE,deck_005
+EX1_277,Arcane Missiles,MAGE,deck_005
+CS2_024,Frostbolt,MAGE,deck_005
+CS2_024,Frostbolt,MAGE,deck_005
+NEW1_012,Mana Wyrm,MAGE,deck_005
+NEW1_012,Mana Wyrm,MAGE,deck_005
+CS2_028,Blizzard,MAGE,deck_005
+CS2_028,Blizzard,MAGE,deck_005
+BRM_002,Flamewaker,MAGE,deck_005
+BRM_002,Flamewaker,MAGE,deck_005
+BOT_103,Stargazer Luna,MAGE,deck_005
+GVG_002,Snowchugger,MAGE,deck_005
+GVG_002,Snowchugger,MAGE,deck_005
+GVG_001,Flamecannon,MAGE,deck_005
+GVG_001,Flamecannon,MAGE,deck_005
+UNG_021,Steam Surger,MAGE,deck_005
+UNG_021,Steam Surger,MAGE,deck_005
+UNG_020,Arcanologist,MAGE,deck_005
+UNG_020,Arcanologist,MAGE,deck_005
+CS2_023,Arcane Intellect,MAGE,deck_005
+CS2_023,Arcane Intellect,MAGE,deck_005
+EX1_012,Bloodmage Thalnos,NEUTRAL,deck_005
+CFM_649,Kabal Courier,MAGE,deck_005
+CFM_649,Kabal Courier,MAGE,deck_005
+UNG_941,Primordial Glyph,MAGE,deck_005
+UNG_941,Primordial Glyph,MAGE,deck_005
+AT_003,Fallen Hero,MAGE,deck_005
+AT_003,Fallen Hero,MAGE,deck_005
+CS2_024,Frostbolt,MAGE,deck_006
+CS2_024,Frostbolt,MAGE,deck_006
+EX1_277,Arcane Missiles,MAGE,deck_006
+EX1_277,Arcane Missiles,MAGE,deck_006
+CS2_028,Blizzard,MAGE,deck_006
+CS2_028,Blizzard,MAGE,deck_006
+CS2_032,Flamestrike,MAGE,deck_006
+CS2_032,Flamestrike,MAGE,deck_006
+FP1_018,Duplicate,MAGE,deck_006
+FP1_018,Duplicate,MAGE,deck_006
+LOOT_172,Dragon's Fury,MAGE,deck_006
+LOOT_172,Dragon's Fury,MAGE,deck_006
+EX1_612,Kirin Tor Mage,MAGE,deck_006
+EX1_612,Kirin Tor Mage,MAGE,deck_006
+EX1_287,Counterspell,MAGE,deck_006
+EX1_287,Counterspell,MAGE,deck_006
+FP1_004,Mad Scientist,NEUTRAL,deck_006
+FP1_004,Mad Scientist,NEUTRAL,deck_006
+ICC_833,Frost Lich Jaina,MAGE,deck_006
+NEW1_012,Mana Wyrm,MAGE,deck_006
+NEW1_012,Mana Wyrm,MAGE,deck_006
+CFM_065,Volcanic Potion,MAGE,deck_006
+CFM_065,Volcanic Potion,MAGE,deck_006
+EX1_561,Alexstrasza,NEUTRAL,deck_006
+GVG_122,Wee Spellstopper,MAGE,deck_006
+GVG_122,Wee Spellstopper,MAGE,deck_006
+ICC_838,Sindragosa,MAGE,deck_006
+CS2_033,Water Elemental,MAGE,deck_006
+CS2_033,Water Elemental,MAGE,deck_006
+CS2_022,Polymorph,MAGE,deck_006
+CS2_087,Blessing of Might,PALADIN,deck_007
+CS2_087,Blessing of Might,PALADIN,deck_007
+CS2_091,Light's Justice,PALADIN,deck_007
+CS2_091,Light's Justice,PALADIN,deck_007
+EX1_355,Blessed Champion,PALADIN,deck_007
+EX1_355,Blessed Champion,PALADIN,deck_007
+CS2_089,Holy Light,PALADIN,deck_007
+CS2_089,Holy Light,PALADIN,deck_007
+UNG_960,Lost in the Jungle,PALADIN,deck_007
+UNG_960,Lost in the Jungle,PALADIN,deck_007
+CFM_305,Smuggler's Run,PALADIN,deck_007
+CFM_305,Smuggler's Run,PALADIN,deck_007
+LOOT_333,Level Up!,PALADIN,deck_007
+LOOT_333,Level Up!,PALADIN,deck_007
+LOOT_093,Call to Arms,PALADIN,deck_007
+LOOT_093,Call to Arms,PALADIN,deck_007
+OG_273,Stand Against Darkness,PALADIN,deck_007
+OG_273,Stand Against Darkness,PALADIN,deck_007
+GVG_060,Quartermaster,PALADIN,deck_007
+GVG_060,Quartermaster,PALADIN,deck_007
+AT_076,Murloc Knight,PALADIN,deck_007
+AT_076,Murloc Knight,PALADIN,deck_007
+CS2_097,Truesilver Champion,PALADIN,deck_007
+CS2_097,Truesilver Champion,PALADIN,deck_007
+AT_075,Warhorse Trainer,PALADIN,deck_007
+AT_075,Warhorse Trainer,PALADIN,deck_007
+EX1_116,Leeroy Jenkins,NEUTRAL,deck_007
+LOOT_149,Corridor Creeper,NEUTRAL,deck_007
+LOOT_149,Corridor Creeper,NEUTRAL,deck_007
+EX1_008,Argent Squire,NEUTRAL,deck_007
+CS2_093,Consecration,PALADIN,deck_008
+CS2_093,Consecration,PALADIN,deck_008
+CS2_089,Holy Light,PALADIN,deck_008
+CS2_089,Holy Light,PALADIN,deck_008
+EX1_619,Equality,PALADIN,deck_008
+EX1_619,Equality,PALADIN,deck_008
+NEW1_020,Wild Pyromancer,NEUTRAL,deck_008
+NEW1_020,Wild Pyromancer,NEUTRAL,deck_008
+FP1_020,Avenge,PALADIN,deck_008
+FP1_020,Avenge,PALADIN,deck_008
+AT_076,Murloc Knight,PALADIN,deck_008
+AT_076,Murloc Knight,PALADIN,deck_008
+EX1_383,Tirion Fordring,PALADIN,deck_008
+CFM_815,Wickerflame Burnbristle,PALADIN,deck_008
+CS2_097,Truesilver Champion,PALADIN,deck_008
+CS2_097,Truesilver Champion,PALADIN,deck_008
+OG_229,"Ragnaros, Lightlord",PALADIN,deck_008
+FP1_028,Undertaker,NEUTRAL,deck_008
+FP1_028,Undertaker,NEUTRAL,deck_008
+UNG_952,Spikeridged Steed,PALADIN,deck_008
+UNG_952,Spikeridged Steed,PALADIN,deck_008
+UNG_072,Stonehill Defender,NEUTRAL,deck_008
+UNG_072,Stonehill Defender,NEUTRAL,deck_008
+EX1_032,Sunwalker,NEUTRAL,deck_008
+EX1_032,Sunwalker,NEUTRAL,deck_008
+OG_133,"N'Zoth, the Corruptor",NEUTRAL,deck_008
+NEW1_019,Knife Juggler,NEUTRAL,deck_008
+NEW1_019,Knife Juggler,NEUTRAL,deck_008
+FP1_012,Sludge Belcher,NEUTRAL,deck_008
+FP1_012,Sludge Belcher,NEUTRAL,deck_008
+CS1_130,Holy Smite,PRIEST,deck_009
+CS1_130,Holy Smite,PRIEST,deck_009
+CS1_112,Holy Nova,PRIEST,deck_009
+CS1_112,Holy Nova,PRIEST,deck_009
+CS2_235,Northshire Cleric,PRIEST,deck_009
+CS2_235,Northshire Cleric,PRIEST,deck_009
+EX1_622,Shadow Word: Death,PRIEST,deck_009
+EX1_622,Shadow Word: Death,PRIEST,deck_009
+CS2_234,Shadow Word: Pain,PRIEST,deck_009
+CS2_234,Shadow Word: Pain,PRIEST,deck_009
+KAR_013,Purify,PRIEST,deck_009
+KAR_013,Purify,PRIEST,deck_009
+CFM_605,Drakonid Operative,PRIEST,deck_009
+CFM_605,Drakonid Operative,PRIEST,deck_009
+BRM_020,Dragonkin Sorcerer,NEUTRAL,deck_009
+BRM_020,Dragonkin Sorcerer,NEUTRAL,deck_009
+BRM_034,Blackwing Corruptor,NEUTRAL,deck_009
+BRM_034,Blackwing Corruptor,NEUTRAL,deck_009
+BRM_031,Chromaggus,NEUTRAL,deck_009
+DS1_055,Darkscale Healer,NEUTRAL,deck_009
+DS1_055,Darkscale Healer,NEUTRAL,deck_009
+EX1_284,Azure Drake,NEUTRAL,deck_009
+EX1_284,Azure Drake,NEUTRAL,deck_009
+LOE_077,Brann Bronzebeard,NEUTRAL,deck_009
+GIL_667,Rotten Applebaum,NEUTRAL,deck_009
+GIL_667,Rotten Applebaum,NEUTRAL,deck_009
+KAR_062,Netherspite Historian,NEUTRAL,deck_009
+KAR_062,Netherspite Historian,NEUTRAL,deck_009
+AT_017,Twilight Guardian,NEUTRAL,deck_009
+AT_017,Twilight Guardian,NEUTRAL,deck_009
+CS2_235,Northshire Cleric,PRIEST,deck_010
+CS2_235,Northshire Cleric,PRIEST,deck_010
+EX1_622,Shadow Word: Death,PRIEST,deck_010
+EX1_622,Shadow Word: Death,PRIEST,deck_010
+CS2_234,Shadow Word: Pain,PRIEST,deck_010
+CS2_234,Shadow Word: Pain,PRIEST,deck_010
+LOE_104,Entomb,PRIEST,deck_010
+LOE_104,Entomb,PRIEST,deck_010
+FP1_023,Dark Cultist,PRIEST,deck_010
+FP1_023,Dark Cultist,PRIEST,deck_010
+KAR_035,Priest of the Feast,PRIEST,deck_010
+KAR_035,Priest of the Feast,PRIEST,deck_010
+UNG_029,Shadow Visions,PRIEST,deck_010
+UNG_029,Shadow Visions,PRIEST,deck_010
+EX1_591,Auchenai Soulpriest,PRIEST,deck_010
+EX1_591,Auchenai Soulpriest,PRIEST,deck_010
+GVG_008,Lightbomb,PRIEST,deck_010
+GVG_008,Lightbomb,PRIEST,deck_010
+KAR_204,Onyx Bishop,PRIEST,deck_010
+KAR_204,Onyx Bishop,PRIEST,deck_010
+ICC_213,Eternal Servitude,PRIEST,deck_010
+ICC_213,Eternal Servitude,PRIEST,deck_010
+ICC_235,Shadow Essence,PRIEST,deck_010
+ICC_235,Shadow Essence,PRIEST,deck_010
+ICC_214,Obsidian Statue,PRIEST,deck_010
+ICC_214,Obsidian Statue,PRIEST,deck_010
+NEW1_030,Deathwing,NEUTRAL,deck_010
+EX1_298,Ragnaros the Firelord,NEUTRAL,deck_010
+BRM_017,Resurrect,PRIEST,deck_010
+BRM_017,Resurrect,PRIEST,deck_010
+CS2_073,Cold Blood,ROGUE,deck_011
+CS2_073,Cold Blood,ROGUE,deck_011
+CS2_074,Deadly Poison,ROGUE,deck_011
+CS2_074,Deadly Poison,ROGUE,deck_011
+EX1_128,Conceal,ROGUE,deck_011
+EX1_128,Conceal,ROGUE,deck_011
+CS2_072,Backstab,ROGUE,deck_011
+CS2_072,Backstab,ROGUE,deck_011
+EX1_124,Eviscerate,ROGUE,deck_011
+EX1_124,Eviscerate,ROGUE,deck_011
+NEW1_004,VanCleef,ROGUE,deck_011
+CS2_077,Sprint,ROGUE,deck_011
+CS2_077,Sprint,ROGUE,deck_011
+NEW1_014,Master of Disguise,ROGUE,deck_011
+NEW1_014,Master of Disguise,ROGUE,deck_011
+AT_029,Buccaneer,ROGUE,deck_011
+AT_029,Buccaneer,ROGUE,deck_011
+GVG_022,Tinker's Sharpsword Oil,ROGUE,deck_011
+GVG_022,Tinker's Sharpsword Oil,ROGUE,deck_011
+CS2_080,Assassin's Blade,ROGUE,deck_011
+CS2_080,Assassin's Blade,ROGUE,deck_011
+EX1_131,Defias Ringleader,ROGUE,deck_011
+EX1_131,Defias Ringleader,ROGUE,deck_011
+CS2_075,Sinister Strike,ROGUE,deck_011
+CS2_075,Sinister Strike,ROGUE,deck_011
+EX1_134,SI:7 Agent,ROGUE,deck_011
+EX1_134,SI:7 Agent,ROGUE,deck_011
+NEW1_026,Violet Teacher,NEUTRAL,deck_011
+NEW1_026,Violet Teacher,NEUTRAL,deck_011
+EX1_581,Sap,ROGUE,deck_011
+CS2_072,Backstab,ROGUE,deck_012
+CS2_072,Backstab,ROGUE,deck_012
+EX1_124,Eviscerate,ROGUE,deck_012
+EX1_124,Eviscerate,ROGUE,deck_012
+EX1_145,Preparation,ROGUE,deck_012
+EX1_145,Preparation,ROGUE,deck_012
+EX1_128,Conceal,ROGUE,deck_012
+EX1_128,Conceal,ROGUE,deck_012
+CS2_073,Cold Blood,ROGUE,deck_012
+CS2_073,Cold Blood,ROGUE,deck_012
+CS2_074,Deadly Poison,ROGUE,deck_012
+CS2_074,Deadly Poison,ROGUE,deck_012
+EX1_613,Edwin VanCleef,ROGUE,deck_012
+EX1_581,Sap,ROGUE,deck_012
+EX1_581,Sap,ROGUE,deck_012
+EX1_134,SI:7 Agent,ROGUE,deck_012
+EX1_134,SI:7 Agent,ROGUE,deck_012
+EX1_116,Leeroy Jenkins,NEUTRAL,deck_012
+NEW1_025,Bloodsail Corsair,NEUTRAL,deck_012
+NEW1_025,Bloodsail Corsair,NEUTRAL,deck_012
+EX1_144,Shadowstep,ROGUE,deck_012
+EX1_144,Shadowstep,ROGUE,deck_012
+EX1_044,Questing Adventurer,NEUTRAL,deck_012
+EX1_044,Questing Adventurer,NEUTRAL,deck_012
+EX1_095,Gadgetzan Auctioneer,NEUTRAL,deck_012
+EX1_095,Gadgetzan Auctioneer,NEUTRAL,deck_012
+CS2_077,Sprint,ROGUE,deck_012
+CS2_077,Sprint,ROGUE,deck_012
+CS2_075,Sinister Strike,ROGUE,deck_012
+CS2_075,Sinister Strike,ROGUE,deck_012
+CS2_045,Rockbiter Weapon,SHAMAN,deck_013
+CS2_045,Rockbiter Weapon,SHAMAN,deck_013
+BOT_451,Voltaic Burst,SHAMAN,deck_013
+BOT_451,Voltaic Burst,SHAMAN,deck_013
+BOT_407,Thunderhead,SHAMAN,deck_013
+BOT_407,Thunderhead,SHAMAN,deck_013
+BOT_291,Storm Chaser,SHAMAN,deck_013
+BOT_291,Storm Chaser,SHAMAN,deck_013
+BOT_411,Electra Stormsurge,SHAMAN,deck_013
+AT_054,The Mistcaller,SHAMAN,deck_013
+CS2_046,Bloodlust,SHAMAN,deck_013
+CS2_046,Bloodlust,SHAMAN,deck_013
+AT_052,Totem Golem,SHAMAN,deck_013
+AT_052,Totem Golem,SHAMAN,deck_013
+AT_049,Thunder Bluff Valiant,SHAMAN,deck_013
+AT_049,Thunder Bluff Valiant,SHAMAN,deck_013
+AT_046,Tuskarr Totemic,SHAMAN,deck_013
+AT_046,Tuskarr Totemic,SHAMAN,deck_013
+CS2_053,Far Sight,SHAMAN,deck_013
+CS2_053,Far Sight,SHAMAN,deck_013
+DAL_071,Mutate,SHAMAN,deck_013
+DAL_071,Mutate,SHAMAN,deck_013
+DAL_431,Swampqueen Hagatha,SHAMAN,deck_013
+ULD_158,Sandstorm Elemental,SHAMAN,deck_013
+ULD_158,Sandstorm Elemental,SHAMAN,deck_013
+DAL_432,Witch's Brew,SHAMAN,deck_013
+DAL_432,Witch's Brew,SHAMAN,deck_013
+DAL_433,Sludge Slurper,SHAMAN,deck_013
+DAL_433,Sludge Slurper,SHAMAN,deck_013
+AT_050,Charged Hammer,SHAMAN,deck_013
+CS2_037,Frost Shock,SHAMAN,deck_014
+CS2_037,Frost Shock,SHAMAN,deck_014
+CS2_038,Ancestral Spirit,SHAMAN,deck_014
+CS2_038,Ancestral Spirit,SHAMAN,deck_014
+ULD_158,Sandstorm Elemental,SHAMAN,deck_014
+ULD_158,Sandstorm Elemental,SHAMAN,deck_014
+LOOT_373,Healing Rain,SHAMAN,deck_014
+LOOT_373,Healing Rain,SHAMAN,deck_014
+BOT_291,Storm Chaser,SHAMAN,deck_014
+BOT_291,Storm Chaser,SHAMAN,deck_014
+BOT_407,Thunderhead,SHAMAN,deck_014
+BOT_407,Thunderhead,SHAMAN,deck_014
+BOT_451,Voltaic Burst,SHAMAN,deck_014
+BOT_451,Voltaic Burst,SHAMAN,deck_014
+BOT_411,Electra Stormsurge,SHAMAN,deck_014
+AT_051,Elemental Destruction,SHAMAN,deck_014
+AT_051,Elemental Destruction,SHAMAN,deck_014
+CS2_046,Bloodlust,SHAMAN,deck_014
+CS2_046,Bloodlust,SHAMAN,deck_014
+AT_054,The Mistcaller,SHAMAN,deck_014
+DAL_431,Swampqueen Hagatha,SHAMAN,deck_014
+DAL_432,Witch's Brew,SHAMAN,deck_014
+DAL_432,Witch's Brew,SHAMAN,deck_014
+DAL_433,Sludge Slurper,SHAMAN,deck_014
+DAL_433,Sludge Slurper,SHAMAN,deck_014
+AT_050,Charged Hammer,SHAMAN,deck_014
+AT_050,Charged Hammer,SHAMAN,deck_014
+CS2_045,Rockbiter Weapon,SHAMAN,deck_014
+CS2_045,Rockbiter Weapon,SHAMAN,deck_014
+CS2_053,Far Sight,SHAMAN,deck_014
+CS2_063,Corruption,WARLOCK,deck_015
+CS2_063,Corruption,WARLOCK,deck_015
+CS2_061,Drain Life,WARLOCK,deck_015
+CS2_061,Drain Life,WARLOCK,deck_015
+CS2_059,Blood Imp,WARLOCK,deck_015
+CS2_059,Blood Imp,WARLOCK,deck_015
+CS2_065,Voidwalker,WARLOCK,deck_015
+CS2_065,Voidwalker,WARLOCK,deck_015
+OG_114,Forbidden Ritual,WARLOCK,deck_015
+OG_114,Forbidden Ritual,WARLOCK,deck_015
+AT_021,Tiny Knight of Evil,WARLOCK,deck_015
+AT_021,Tiny Knight of Evil,WARLOCK,deck_015
+BOT_222,Spirit Bomb,WARLOCK,deck_015
+BOT_222,Spirit Bomb,WARLOCK,deck_015
+BOT_226,Nethersoul Buster,WARLOCK,deck_015
+BOT_226,Nethersoul Buster,WARLOCK,deck_015
+BOT_443,Void Analyst,WARLOCK,deck_015
+BOT_443,Void Analyst,WARLOCK,deck_015
+BOT_224,Doubling Imp,WARLOCK,deck_015
+BOT_224,Doubling Imp,WARLOCK,deck_015
+DAL_185,Aranasi Broodmother,WARLOCK,deck_015
+DAL_185,Aranasi Broodmother,WARLOCK,deck_015
+UNG_829,Lakkari Sacrifice,WARLOCK,deck_015
+BOT_913,Demonic Project,WARLOCK,deck_015
+CFM_663,Kabal Trafficker,WARLOCK,deck_015
+CFM_663,Kabal Trafficker,WARLOCK,deck_015
+AT_024,Demonfuse,WARLOCK,deck_015
+AT_024,Demonfuse,WARLOCK,deck_015
+CS2_057,Shadow Bolt,WARLOCK,deck_015
+CS2_057,Shadow Bolt,WARLOCK,deck_015
+CS2_062,Hellfire,WARLOCK,deck_016
+CS2_062,Hellfire,WARLOCK,deck_016
+CS2_064,Dread Infernal,WARLOCK,deck_016
+CS2_064,Dread Infernal,WARLOCK,deck_016
+AT_020,Fearsome Doomguard,WARLOCK,deck_016
+AT_020,Fearsome Doomguard,WARLOCK,deck_016
+AT_019,Dreadsteed,WARLOCK,deck_016
+AT_019,Dreadsteed,WARLOCK,deck_016
+DAL_173,Darkest Hour,WARLOCK,deck_016
+DAL_173,Darkest Hour,WARLOCK,deck_016
+BOT_913,Demonic Project,WARLOCK,deck_016
+BOT_913,Demonic Project,WARLOCK,deck_016
+CFM_663,Kabal Trafficker,WARLOCK,deck_016
+CFM_663,Kabal Trafficker,WARLOCK,deck_016
+UNG_829,Lakkari Sacrifice,WARLOCK,deck_016
+OG_114,Forbidden Ritual,WARLOCK,deck_016
+OG_114,Forbidden Ritual,WARLOCK,deck_016
+BOT_222,Spirit Bomb,WARLOCK,deck_016
+BOT_222,Spirit Bomb,WARLOCK,deck_016
+CS2_057,Shadow Bolt,WARLOCK,deck_016
+CS2_057,Shadow Bolt,WARLOCK,deck_016
+CS2_061,Drain Life,WARLOCK,deck_016
+CS2_061,Drain Life,WARLOCK,deck_016
+CS2_063,Corruption,WARLOCK,deck_016
+CS2_063,Corruption,WARLOCK,deck_016
+DAL_185,Aranasi Broodmother,WARLOCK,deck_016
+DAL_185,Aranasi Broodmother,WARLOCK,deck_016
+CS2_065,Voidwalker,WARLOCK,deck_016
+CS2_065,Voidwalker,WARLOCK,deck_016
+BOT_443,Void Analyst,WARLOCK,deck_016
+EX1_603,Cruel Taskmaster,WARRIOR,deck_017
+EX1_603,Cruel Taskmaster,WARRIOR,deck_017
+CS2_105,Heroic Strike,WARRIOR,deck_017
+CS2_105,Heroic Strike,WARRIOR,deck_017
+CS2_104,Rampage,WARRIOR,deck_017
+CS2_104,Rampage,WARRIOR,deck_017
+CS2_106,Fiery War Axe,WARRIOR,deck_017
+CS2_106,Fiery War Axe,WARRIOR,deck_017
+EX1_084,Warsong Commander,WARRIOR,deck_017
+EX1_084,Warsong Commander,WARRIOR,deck_017
+BOT_042,Weapons Project,WARRIOR,deck_017
+BOT_042,Weapons Project,WARRIOR,deck_017
+BOT_067,Rocket Boots,WARRIOR,deck_017
+BOT_067,Rocket Boots,WARRIOR,deck_017
+AT_064,Bash,WARRIOR,deck_017
+AT_064,Bash,WARRIOR,deck_017
+AT_065,King's Defender,WARRIOR,deck_017
+AT_065,King's Defender,WARRIOR,deck_017
+AT_069,Sparring Partner,WARRIOR,deck_017
+AT_069,Sparring Partner,WARRIOR,deck_017
+AT_071,Alexstrasza's Champion,WARRIOR,deck_017
+AT_071,Alexstrasza's Champion,WARRIOR,deck_017
+AT_072,Varian Wrynn,WARRIOR,deck_017
+BOT_218,Security Rover,WARRIOR,deck_017
+BOT_218,Security Rover,WARRIOR,deck_017
+BOT_299,Omega Assembly,WARRIOR,deck_017
+BOT_299,Omega Assembly,WARRIOR,deck_017
+DAL_063,Wrenchcalibur,WARRIOR,deck_017
+DAL_063,Wrenchcalibur,WARRIOR,deck_017
+CFM_940,I Know a Guy,WARRIOR,deck_017
+CS2_108,Execute,WARRIOR,deck_018
+CS2_108,Execute,WARRIOR,deck_018
+CS2_114,Cleave,WARRIOR,deck_018
+CS2_114,Cleave,WARRIOR,deck_018
+BOT_104,Dyn-o-matic,WARRIOR,deck_018
+BOT_104,Dyn-o-matic,WARRIOR,deck_018
+BOT_218,Security Rover,WARRIOR,deck_018
+BOT_218,Security Rover,WARRIOR,deck_018
+BOT_299,Omega Assembly,WARRIOR,deck_018
+BOT_299,Omega Assembly,WARRIOR,deck_018
+AT_064,Bash,WARRIOR,deck_018
+AT_064,Bash,WARRIOR,deck_018
+AT_067,Magnataur Alpha,WARRIOR,deck_018
+AT_067,Magnataur Alpha,WARRIOR,deck_018
+AT_072,Varian Wrynn,WARRIOR,deck_018
+CFM_940,I Know a Guy,WARRIOR,deck_018
+CFM_940,I Know a Guy,WARRIOR,deck_018
+DAL_063,Wrenchcalibur,WARRIOR,deck_018
+DAL_063,Wrenchcalibur,WARRIOR,deck_018
+DAL_062,Sweeping Strikes,WARRIOR,deck_018
+DAL_062,Sweeping Strikes,WARRIOR,deck_018
+CS2_105,Heroic Strike,WARRIOR,deck_018
+CS2_105,Heroic Strike,WARRIOR,deck_018
+CS2_106,Fiery War Axe,WARRIOR,deck_018
+CS2_106,Fiery War Axe,WARRIOR,deck_018
+CS2_104,Rampage,WARRIOR,deck_018
+CS2_104,Rampage,WARRIOR,deck_018
+DAL_060,Clockwork Goblin,WARRIOR,deck_018
+DAL_060,Clockwork Goblin,WARRIOR,deck_018
+BOT_067,Rocket Boots,WARRIOR,deck_018
