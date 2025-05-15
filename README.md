@@ -92,6 +92,9 @@ The following classes are present in the Hearthstone environment. Some of the cl
 13. `Whizbang` (Disabled due to not being real player class)
 14. `DemonHunter` (Disabled)
 
+## Decks
+Decks are stored and created in the `src/data/` folder. A README file is present in the `src/data/` folder that describes how to add new decks to the environment. HearthGym comes with eighteen pre-built decks, two for each enabled class. The metadata for the decks is stored in the `src/data/decks_metadata.csv` file and the actual cards in the decks are stored in the `src/data/final_decks.csv` file. The decks are based on the `fireplace` package and are designed to be used within HearthGym.
+
 If an invalid class is provided, the game will choose a random class for the agent. (This is printed in the logs.)
 
 ## Environment
