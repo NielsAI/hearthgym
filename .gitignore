@@ -29,6 +29,6 @@ all_states*
 training_data*
 mask_data*
 autoencoder.pth 
-mdn_rnn.pth
+rssm.pth
 
 controller_checkpoints/
