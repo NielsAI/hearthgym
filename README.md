@@ -4,6 +4,8 @@ This repository contains a Gymnasium-based environment for the Hearthstone game.
 
 This repository requires Python 3.12.2. The repository is tested on Windows 11.
 
+More documentation can be found via the website: <a href="https://sites.google.com/view/hearthgym">[HearthGym](https://sites.google.com/view/hearthgym)</a>.
+
 # Setup
 Before you can run the Hearthstone environment, you need to install the `fireplace` package. The `fireplace` package is a Python implementation of the Hearthstone game. The package is not available on PyPI, so you need to install it from the source. The package is included in this repository as a submodule. To install the package, run the following commands:
 ```bash
